@@ -1,0 +1,4 @@
+# This folder contains all of the dataset
+RawFiles - contains all of the csv files per genre from VGChartz
+RawData.csv - A csv file with all of the files in the folder RawFiles combined
+steam.csv - A csv file of Steam data from Kaggle
