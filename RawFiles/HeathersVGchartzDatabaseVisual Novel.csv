@@ -1,0 +1,483 @@
+position,game,console,publisher,developer,vgchart_score,critic_score,user_score,total_shipped,total_sales,na_sales,pal_sales,japan_sales,other_sales,release_date,last_update
+1,NEKOPARA Vol. 1,PC,Unknown  ,Neko Works  ,7.5  ,N/A  ,N/A  ,0.58m,N/A,N/A,N/A,N/A,N/A,N/A  ,08th Feb 19
+2,NEKOPARA Vol. 0,PC,Unknown  ,Neko Works  ,N/A  ,N/A  ,N/A  ,0.57m,N/A,N/A,N/A,N/A,N/A,N/A  ,09th Feb 19
+3,Doki Doki Literature Club Plus!,All,Serenity Forge  ,Team Salvato  ,N/A  ,N/A  ,N/A  ,0.50m,N/A,N/A,N/A,N/A,N/A,30th Jun 21  ,20th Jul 21
+4,fault,Series,Sekai Project  ,ALICE IN DISSONANCE  ,N/A  ,N/A  ,N/A  ,0.50m,N/A,N/A,N/A,N/A,N/A,15th Dec 14  ,21st Sep 22
+5,Root Letter,Series,PQube  ,Kadokawa Games  ,N/A  ,N/A  ,N/A  ,0.50m,N/A,N/A,N/A,N/A,N/A,10th Nov 16  ,24th Apr 22
+6,Root Letter,All,PQube  ,Kadokawa Games  ,N/A  ,N/A  ,N/A  ,0.40m,N/A,N/A,N/A,N/A,N/A,10th Nov 16  ,30th Jan 21
+7,NEKOPARA Vol. 2,PC,Unknown  ,Neko Works  ,N/A  ,N/A  ,N/A  ,0.32m,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Feb 19
+8,Tricolour Lovestory,PC,Unknown  ,HL-Galgame  ,N/A  ,N/A  ,N/A  ,0.29m,N/A,N/A,N/A,N/A,N/A,N/A  ,15th Feb 19
+9,Hatoful Boyfriend,PC,Devolver Digital  ,Mediatonic Ltd.  ,N/A  ,N/A  ,N/A  ,0.28m,N/A,N/A,N/A,N/A,N/A,04th Sep 14  ,08th Aug 18
+10,NEKOPARA Vol. 3,PC,Unknown  ,Neko Works  ,N/A  ,N/A  ,N/A  ,0.22m,N/A,N/A,N/A,N/A,N/A,N/A  ,22nd Feb 19
+11,The Lords of the Earth Flame,PC,Unknown  ,"Rhino Games, Inc.  ",N/A  ,N/A  ,N/A  ,0.22m,N/A,N/A,N/A,N/A,N/A,N/A  ,23rd Feb 19
+12,Russian Horror Story,PC,Unknown  ,Footmade  ,N/A  ,N/A  ,N/A  ,0.20m,N/A,N/A,N/A,N/A,N/A,N/A  ,26th Feb 19
+13,Steins;Gate,PSP,Kadokawa Shoten  ,Nitro+  ,N/A  ,N/A  ,N/A  ,N/A,0.19m,N/A,N/A,0.19m,N/A,23rd Jun 11  ,04th Jul 18
+14,Super Star,PC,Unknown  ,Dream Works  ,N/A  ,N/A  ,N/A  ,0.19m,N/A,N/A,N/A,N/A,N/A,N/A  ,01st Mar 19
+15,Wishmaster,PC,Unknown  ,Unknown  ,N/A  ,N/A  ,N/A  ,0.19m,N/A,N/A,N/A,N/A,N/A,N/A  ,01st Mar 19
+16,Steins;Gate,PC,Nitro+  ,Nitro+  ,N/A  ,N/A  ,N/A  ,0.16m,N/A,N/A,N/A,N/A,N/A,09th Sep 16  ,04th Jul 18
+17,Tears to Tiara II: Heir of the Overlord,PS3,NIS America  ,Sting  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.07m,0.01m,0.06m,0.02m,14th Oct 14  ,06th Nov 18
+18,Psycho-Pass: Mandatory Happiness,PS4,NIS America  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.10m,0.02m,N/A,0.03m,13th Sep 16  ,03rd Jul 18
+19,Winter Novel,PC,DeXP  ,DeXP  ,N/A  ,N/A  ,N/A  ,0.14m,N/A,N/A,N/A,N/A,N/A,10th Aug 16  ,22nd Apr 19
+20,Go! Go! Nippon! ~My First Trip to Japan~,PC,MangaGamer  ,OVERDRIVE  ,N/A  ,N/A  ,N/A  ,0.13m,N/A,N/A,N/A,N/A,N/A,21st Feb 14  ,29th Mar 19
+21,Utawarerumono: Mask of Truth,PS4,Atlus  ,Aqua Plus  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,0.05m,N/A,0.07m,0.01m,05th Sep 17  ,03rd Jun 18
+22,If My Heart Had Wings,PC,MoeNovel  ,MoeNovel  ,N/A  ,N/A  ,N/A  ,0.12m,N/A,N/A,N/A,N/A,N/A,28th Jun 13  ,16th Apr 19
+23,Fate/hollow ataraxia,PSV,Type-Moon  ,Type-Moon  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,N/A,N/A,0.12m,N/A,27th Nov 14  ,15th Nov 18
+24,Analogue: A Hate Story,PC,Love Conquers All Games  ,Love Conquers All Games  ,6.8  ,N/A  ,N/A  ,0.11m,N/A,N/A,N/A,N/A,N/A,27th Apr 12  ,06th Apr 19
+25,Replica,PC,Somi  ,Somi  ,N/A  ,N/A  ,N/A  ,0.11m,N/A,N/A,N/A,N/A,N/A,11th Jun 16  ,04th Apr 19
+26,fault - milestone one,PC,Sekai Project  ,ALICE IN DISSONANCE  ,N/A  ,N/A  ,N/A  ,0.11m,N/A,N/A,N/A,N/A,N/A,09th Aug 13  ,04th Apr 19
+27,Robotics;Notes,PS3,5pb  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,N/A,N/A,0.11m,N/A,28th Jun 12  ,21st Nov 18
+28,Utawarerumono: Mask of Truth,PSV,Atlus  ,Aqua Plus  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.01m,N/A,0.08m,0.00m,05th Sep 17  ,03rd Jun 18
+29,Uta no Prince-Sama: Debut,PSP,Broccoli  ,Nippon Ichi Software  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,N/A,N/A,0.09m,N/A,24th May 12  ,29th Nov 18
+30,Tokyo Twilight Ghost Hunters,PSV,Aksys Games  ,Toybox Games  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.04m,0.01m,0.02m,0.01m,10th Mar 15  ,02nd Dec 18
+31,Steins;Gate: Darling of Loving Vows,X360,5pb  ,Nitro+  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,N/A,N/A,0.08m,N/A,16th Jun 11  ,03rd Jan 19
+32,Tokimeki Memorial Girl's Side Premium: 3rd Story,PSP,Konami Digital Entertainment  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,N/A,N/A,0.07m,N/A,15th Mar 12  ,19th Dec 18
+33,Chaos;Child,PSV,PQube  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,N/A,0.00m,0.07m,0.00m,24th Oct 17  ,24th Mar 19
+34,The Silver Case,PS4,NIS America  ,Grasshopper Manufacture  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.05m,N/A,0.01m,0.01m,18th Apr 17  ,11th Sep 18
+35,I Don't Have Many Friends Portable,PSP,Namco Bandai Games  ,Banpresto  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,N/A,N/A,0.07m,N/A,23rd Feb 12  ,27th Dec 18
+36,Lucian Bee's: Justice Yellow / Evil Violet,PS2,5pb  ,HuneX  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,N/A,N/A,0.07m,N/A,20th May 10  ,19th Dec 18
+37,Tokyo Twilight Ghost Hunters,PS3,Aksys Games  ,Toybox Games  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.03m,0.00m,0.02m,0.01m,10th Mar 15  ,02nd Dec 18
+38,Steins;Gate: Senkei Kousoku no Phonogram,PS3,5pb  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,N/A,N/A,0.06m,N/A,25th Apr 13  ,03rd Jan 19
+39,Steins;Gate,PS3,5pb  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.01m,0.02m,0.02m,0.01m,18th Sep 15  ,04th Jul 18
+40,Steins;Gate,X360,5pb  ,Nitro+  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,N/A,N/A,0.06m,N/A,15th Oct 09  ,04th Jul 18
+41,Steins;Gate: Darling of Loving Vows,PSP,5pb  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,N/A,N/A,0.06m,N/A,26th Apr 12  ,03rd Jan 19
+42,Fate/stay night [Réalta Nua],PSV,Kadokawa Shoten  ,Type-Moon  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,N/A,N/A,0.06m,N/A,29th Nov 12  ,03rd Jan 19
+43,Kyoukai Senjou no Horizon Portable,PSP,Kadokawa Shoten  ,Tenky  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,N/A,N/A,0.05m,N/A,25th Apr 13  ,05th Jan 19
+44,"Love, Election and Chocolate Portable",PSP,Kadokawa Shoten  ,ASCII Media Works  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,N/A,N/A,0.05m,N/A,27th Sep 12  ,29th Dec 18
+45,Bakemonogatari Portable,PSP,Namco Bandai Games  ,Banpresto  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,N/A,N/A,0.05m,N/A,23rd Aug 12  ,19th Jan 19
+46,New Hayarigami,PSV,Nippon Ichi Software  ,Nippon Ichi Software  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,N/A,N/A,0.05m,N/A,07th Jul 14  ,03rd Mar 18
+47,fault - milestone two side:above,PC,Sekai Project  ,ALICE IN DISSONANCE  ,N/A  ,N/A  ,N/A  ,0.05m,N/A,N/A,N/A,N/A,N/A,08th Sep 15  ,04th Apr 19
+48,XBlaze Lost: Memories,PS3,Aksys Games  ,Arc System Works  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,N/A,N/A,0.01m,11th Aug 15  ,28th Jan 19
+49,Amnesia: Crowd,PSP,Idea Factory  ,Otomate  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,N/A,N/A,0.05m,N/A,18th Apr 13  ,01st Apr 19
+50,Diabolik Lovers,PSP,Idea Factory  ,Rejet  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,N/A,N/A,0.05m,N/A,11th Oct 12  ,01st Apr 19
+51,Amnesia Later,PSP,Idea Factory  ,Otomate  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,N/A,N/A,0.05m,N/A,15th Mar 12  ,02nd Apr 19
+52,Hakuouki SSL: Sweet School Life,PSV,Idea Factory  ,Design Factory  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,N/A,N/A,0.05m,N/A,27th Mar 14  ,02nd Apr 19
+53,Aokana: Four Rhythm Across the Blue,PSV,Sprite  ,Sprite  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,N/A,N/A,0.05m,N/A,25th Feb 16  ,07th Apr 18
+54,Kenka Bancho Otome,PSV,Spike Chunsoft  ,RED Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,N/A,19th May 16  ,22nd Sep 18
+55,White Album 2: Shiawase no Mukougawa,PS3,Aqua Plus  ,Aqua Plus  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,N/A,20th Dec 12  ,25th Apr 19
+56,Ore no Imouto ga Konna ni Kawaii wake ga Nai. Happy End,PS3,Namco Bandai Games  ,Banpresto  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,N/A,26th Sep 13  ,25th Apr 19
+57,Shin Hayarigami,PS3,Nippon Ichi Software  ,Nippon Ichi Software  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,N/A,07th Aug 14  ,25th Apr 19
+58,Ebikore+ Amagami,PSV,Kadokawa Games  ,Enterbrain  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,N/A,30th Jan 14  ,25th Apr 19
+59,Diabolik Lovers: Dark Fate,PSV,Idea Factory  ,Rejet  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,N/A,26th Feb 15  ,25th Apr 19
+60,Hanaoni: Yume no Tsudzuki,PSP,Idea Factory  ,Design Factory  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,N/A,22nd Mar 12  ,25th Apr 19
+61,Date A Live: Rine Utopia,PS3,Compile Heart  ,Compile Heart  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,N/A,27th Jun 13  ,25th Apr 19
+62,Utawarerumono: Mask of Truth,PS3,Aqua Plus  ,Aqua Plus  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,N/A,21st Sep 16  ,03rd Jun 18
+63,Hakuoki Zuisouroku Omokage Hana,PSV,Idea Factory  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,N/A,19th Feb 15  ,26th Apr 19
+64,Ao no Exorcist: Genkoku no Labyrinth,PSP,Namco Bandai Games  ,Bandai Namco Games  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,N/A,26th Apr 12  ,26th Apr 19
+65,Bond of Ten Demons,PSP,Idea Factory  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,N/A,19th Jul 12  ,26th Apr 19
+66,Norn9: Norn + Nonette,PSP,Idea Factory  ,Regista  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,N/A,30th May 13  ,26th Apr 19
+67,Psycho-Pass: Mandatory Happiness,PSV,NIS America  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,0.01m,0.02m,0.00m,13th Sep 16  ,03rd Jul 18
+68,The Three Kingdoms Love Story ~ The Art of Otome!,PSP,Prototype  ,Prototype  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,N/A,26th Jul 12  ,26th Apr 19
+69,XBLAZE Code: Embryo,PS3,Aksys Games  ,Arc System Works  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.02m,N/A,0.01m,0.01m,24th Jun 14  ,26th Apr 19
+70,Even in a Game Listen to Me Girls. I Am Your Father!,PSP,Namco Bandai Games  ,Banpresto  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,26th Apr 12  ,26th Apr 19
+71,Diabolik Lovers: More Blood,PSP,Idea Factory  ,Rejet  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,24th Oct 13  ,26th Apr 19
+72,Infinite Stratos 2: Ignition Hearts,PSV,5pb  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,27th Feb 14  ,26th Apr 19
+73,Toaru Majutsu to Kagaku no Ensemble,PSP,Namco Bandai Games  ,Bandai Namco Games  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,21st Feb 13  ,27th Apr 19
+74,Brothers Conflict: Brilliant Blue,PSP,Idea Factory  ,Otomate  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,12th Sep 13  ,27th Apr 19
+75,"Moshi, Kono Sekai ni Kami-sama ga Iru to suru Naraba.",PSV,Rejet  ,Rejet  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,25th Feb 16  ,27th Apr 19
+76,Zero Escape: Virtue's Last Reward,3DS,Aksys Games  ,Spike Chunsoft  ,N/A  ,9.0  ,N/A  ,N/A,0.03m,0.03m,N/A,N/A,0.00m,23rd Oct 12  ,23rd Jan 19
+77,Ren'ai 0 Kilometer,PSP,Alchemist  ,ASa Project  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,31st Jan 13  ,27th Apr 19
+78,Jyuzaengi: Engetsu Sangokuden,PSP,Idea Factory  ,RED Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,24th May 12  ,27th Apr 19
+79,Nisekoi: Yomeiri!?,PSV,Konami Digital Entertainment  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,01st Jan 15  ,27th Apr 19
+80,Kyokugen Dasshutsu ADV: Zennin Shiboudesu,3DS,ChunSoft  ,"Chunsoft Co., Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,16th Feb 12  ,27th Apr 19
+81,Code: Realize - Bouquet of Rainbows,PS4,Aksys Games  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.02m,N/A,N/A,0.01m,30th Mar 18  ,02nd Mar 18
+82,Angelique Luminarise,NS,Koei Tecmo  ,Ruby Party  ,N/A  ,N/A  ,N/A  ,0.03m,N/A,N/A,N/A,N/A,N/A,20th May 21  ,27th Jul 21
+83,Haruka: Beyond the Stream of Time 7,NS,Unknown  ,Koei Tecmo Games  ,N/A  ,N/A  ,N/A  ,0.03m,N/A,N/A,N/A,N/A,N/A,N/A  ,07th Feb 21
+84,Kiniro no Corda 4,PSV,Unknown  ,Koei Tecmo Games  ,N/A  ,N/A  ,N/A  ,0.03m,N/A,N/A,N/A,N/A,N/A,N/A  ,16th Oct 20
+85,Muv-Luv Alternative: Total Eclipse,PS3,5pb  ,MAGES. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,16th May 13  ,27th Apr 19
+86,Oumagatoki: Kaidan Romance,PSP,Quinrose  ,QuinRose  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,29th Mar 12  ,27th Apr 19
+87,Kamigami no Asobi: Ludere Deorum,PSP,Broccoli  ,Nippon Ichi Software  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,24th Oct 13  ,29th Apr 19
+88,Harukanaru Toki no Naka de 5: Kazahanaki,PSP,Tecmo Koei  ,Tecmo Koei Games  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,23rd Feb 12  ,30th Apr 19
+89,Amnesia World,PSV,Idea Factory  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,22nd May 14  ,30th Apr 19
+90,Tiger & Bunny On Air Jack!,PSP,Namco Bandai Games  ,Bandai Namco  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,20th Sep 12  ,01st May 19
+91,Infinite Stratos 2: Ignition Hearts,PS3,5pb  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,27th Feb 14  ,01st May 19
+92,Brothers Conflict: Passion Pink,PSP,Idea Factory  ,Otomate  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,17th May 12  ,01st May 19
+93,Aokana: Four Rhythm Across the Blue,PS4,Sprite  ,Sprite  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,21st Aug 20  ,07th Apr 18
+94,Touch Shot! Love Application,PS3,Compile Heart  ,Tamsoft  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,23rd Feb 12  ,01st May 19
+95,Root Letter,PS4,PQube  ,Kadokawa Games  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,10th Nov 16  ,20th Sep 18
+96,Steins;Gate Elite,PS4,Spike Chunsoft  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,19th Feb 19  ,06th Nov 18
+97,Tokushu Houdoubu,PSV,Nippon Ichi Software  ,Nippon Ichi Software  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,23rd Aug 12  ,01st May 19
+98,Little Busters! Converted Edition,PSV,Prototype  ,Prototype  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,22nd Mar 12  ,01st May 19
+99,Jyuzaengi Engetsu Sangokuden 2,PSP,Idea Factory  ,RED Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,17th Apr 14  ,01st May 19
+100,D.C. III: Da Capo III,PSP,Kadokawa Games  ,Circus  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,28th Feb 13  ,01st May 19
+101,Wand of Fortune 2 FD: Kimi ni Sasageru Epilogue,PSP,Idea Factory  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,22nd Nov 12  ,01st May 19
+102,Kyokugen Dasshutsu ADV: Zennin Shiboudesu,PSV,ChunSoft  ,ChunSoft  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,16th Feb 12  ,02nd May 19
+103,Otoko Yukaku,PSV,D3Publisher  ,D3 Publisher  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,19th Feb 15  ,02nd May 19
+104,Yahari Game Demo Ore no Seishun Love-Kome Hamachi Gatteiru,PSV,5pb  ,MAGES. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,19th Sep 13  ,02nd May 19
+105,Umineko no Naku Koro ni San: Shinjitsu to Gensou no Yasoukyoku,PS3,Alchemist  ,Alchemist  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,15th Dec 11  ,02nd May 19
+106,Anohana: The Flower We Saw That Day,PSP,5pb  ,Guyzware  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,30th Aug 12  ,02nd May 19
+107,Taishou x Alice: All in One,PSV,Prototype  ,Prototype  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,02nd Jun 16  ,22nd Mar 19
+108,Prince of Stride,PSV,Kadokawa Games  ,Kadokawa Games  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,30th Jul 15  ,02nd May 19
+109,Urakata Hakuoki,PSP,Idea Factory  ,Design Factory  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,27th Jun 13  ,02nd May 19
+110,Steins;Gate: Senkei Kousoku no Phonogram,X360,5pb  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,25th Apr 13  ,03rd Jan 19
+111,Dunamis 15,PS3,5pb  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,15th Sep 11  ,19th Dec 18
+112,HatsuKare * Renai Debut Sengen!,PSP,FuRyu Corporation  ,Vridge Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,04th Apr 13  ,02nd May 19
+113,Geten no Hana,PSP,Tecmo Koei  ,Koei Tecmo Games  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,28th Mar 13  ,03rd May 19
+114,Moujuutsukai to Oujisama: Snow Bride Portable,PSP,Idea Factory  ,Otomate  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,23rd Feb 12  ,03rd May 19
+115,Collar x Malice: Unlimited,PSV,Idea Factory  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,26th Jul 18  ,25th Aug 18
+116,The Three Kingdoms Love Story ~ The Art of Otome!,PSV,Prototype  ,Prototype  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,04th Feb 16  ,26th Apr 19
+117,Date A Live: Arusu Install,PS3,Compile Heart  ,Compile Heart  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,26th Jun 14  ,03rd May 19
+118,Steins;Gate Elite,NS,Spike Chunsoft  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,19th Feb 19  ,06th Nov 18
+119,428: Shibuya Scramble,PS4,Spike Chunsoft  ,Abstraction Games  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.01m,N/A,0.01m,0.00m,04th Sep 18  ,26th Sep 18
+120,Dance with Devils,PSV,Rejet  ,Rejet  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,24th Mar 16  ,03rd May 19
+121,Sengoku Hime 3: Tenka o Kirisaku Hikari to Kage,PSP,System Soft Alpha  ,System Soft Alpha  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,29th Mar 12  ,03rd May 19
+122,Genroh,PSP,Idea Factory  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,30th Aug 12  ,04th May 19
+123,Kannou Mukashibanashi Portable,PSP,Idea Factory  ,Otomate  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,20th Jan 12  ,04th May 19
+124,Dies Irae: Amantes Amentes,PSP,Views  ,Light  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,28th Jun 12  ,04th May 19
+125,Shinken de Watashi ni Koi Shinasai! R,PS3,Minato Station  ,Minato Station  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,22nd Mar 12  ,04th May 19
+126,Shiratsuyu no Kai,PSP,Idea Factory  ,Otomate  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,01st Aug 13  ,04th May 19
+127,Jake Hunter: Round of Revenge,3DS,Arc System Works  ,WorkJam  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,28th Jun 12  ,04th May 19
+128,Robotics;Notes,X360,5pb  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,28th Jun 12  ,21st Nov 18
+129,Toki no Kizuna: Hanayui Tsuzuri,PSP,Idea Factory  ,Otomate  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,25th Jul 13  ,04th May 19
+130,Arcana Famiglia: Vascello Phantasma no Majutsushi,PSP,Comfort  ,HuneX  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,21st Jun 12  ,07th May 19
+131,Vitamin R,PSP,D3Publisher  ,Rejet  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,08th Aug 13  ,07th May 19
+132,Ro-Kyu-Bu! Lost Secret,PSP,Kadokawa Shoten  ,ASCII Media Works  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,20th Jun 13  ,07th May 19
+133,Kokoro Connect: Yochi Random,PSP,Namco Bandai Games  ,Banpresto  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,22nd Nov 12  ,07th May 19
+134,Konoyo no Hate de Koi o Utau Shoujo: Yu-No,PSV,5pb  ,MAGES  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,16th Mar 17  ,22nd Mar 19
+135,Steins;Gate: Darling of Loving Vows,PS3,5pb  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,24th May 12  ,03rd Jan 19
+136,Higurashi no Naku Koro ni Hou,NS,Entergram  ,07th Expansion  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,26th Jul 18  ,03rd Feb 19
+137,Meiji Tokyo Renka,PSP,Broccoli  ,HuneX  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,26th Sep 13  ,07th May 19
+138,Soukoku no Kusabi: Hiiro no Kakera 3 Ashita he no Tobira,PSP,Idea Factory  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,31st May 12  ,17th May 19
+139,Konoyo no Hate de Koi o Utau Shoujo: Yu-No,PS4,5pb  ,MAGES  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,16th Mar 17  ,20th Sep 18
+140,Psycho-Pass: Mandatory Happiness,XOne,5pb  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,01st Jan 15  ,11th Sep 18
+141,Robotics;Notes,PSV,5pb  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,26th Jun 14  ,21st Nov 18
+142,Fuuraiki 3,PSV,Nippon Ichi Software  ,Nippon Ichi Software  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,19th Feb 15  ,17th May 19
+143,Starry * Sky: After Summer Portable,PSP,Asgard  ,honeybee  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,28th Mar 13  ,17th May 19
+144,XBlaze Lost: Memories,PSV,Aksys Games  ,Arc System Works  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.01m,N/A,N/A,0.00m,11th Aug 15  ,28th Jan 19
+145,Kimikare: New Semester,PSP,Idea Factory  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,19th Jul 12  ,17th May 19
+146,Chaos;Child,PS3,5pb  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,25th Jun 15  ,24th Mar 19
+147,"Hanayaka Kana, Ware ga Ichizoku: Tasogare Polarstar",PSP,Idea Factory  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,11th Jul 13  ,17th May 19
+148,Elkrone no Atelier: Dear for Otomate,PSP,Idea Factory  ,Otomate  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,12th Apr 12  ,17th May 19
+149,Chaos;Child,PS4,PQube  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,24th Oct 17  ,24th Mar 19
+150,Memories Off: Yubikiri no Kikou,PSP,5pb  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,26th May 11  ,19th Dec 18
+151,L.G.S: Shinsetsu Houshinengi,PSP,Idea Factory  ,Otomate  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,09th Aug 12  ,18th May 19
+152,Dunamis 15,X360,5pb  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,15th Sep 11  ,19th Dec 18
+153,Reine des Fleurs,PSV,Idea Factory  ,Otomate  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,20th Aug 15  ,22nd Mar 19
+154,Custom Drive,PSP,D3Publisher  ,Vridge Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,30th Aug 12  ,18th May 19
+155,Ore wa Shoujo Mangaka,PSP,Giza10  ,Giza10  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,23rd Feb 12  ,18th May 19
+156,Hyakka Yakou,PSV,Idea Factory  ,Otomate  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,12th Feb 15  ,21st May 19
+157,White Album 2: Shiawase no Mukougawa,PSV,Aqua Plus  ,Aqua Plus  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,28th Nov 13  ,25th May 19
+158,Storm Lover 2nd,PSP,D3Publisher  ,Vridge Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,20th Jun 13  ,25th May 19
+159,Arcana Famiglia 2,PSP,Comfort  ,HuneX  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,14th Nov 13  ,25th May 19
+160,Gaku * Ou: The Royal Seven Stars + Meteor,PSP,Alchemist  ,Lump of Sugar  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,28th Mar 13  ,25th May 19
+161,Storm Lover Kai!!,PSP,D3Publisher  ,Vridge Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,07th Jun 12  ,25th May 19
+162,Tiger & Bunny: Hero's Day,PSP,D3Publisher  ,D3Publisher  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,20th Mar 13  ,25th May 19
+163,"Sharin no Kuni, Himawari no Shoujo",X360,5pb  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,28th Oct 10  ,19th Dec 18
+164,Pioneer no Banshou,PSV,Idea Factory  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,30th Aug 18  ,26th Sep 18
+165,Harukanaru Toki no Naka de Ultimate,PSV,Koei Tecmo  ,Koei Tecmo Games  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,22nd Feb 18  ,07th Mar 18
+166,Ikemen Sengoku: Toki o Kakeru Koi - Aratanaru Deai,PSV,Idea Factory  ,CYBIRD  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,22nd Mar 18  ,06th Apr 18
+167,La Corda d'Oro 3,PSV,Koei Tecmo  ,Ruby Party  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,20th Sep 18  ,15th Oct 18
+168,The Three Kingdoms Love Story ~ The Art of Otome!,PS2,Prototype  ,Prototype  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,16th Jun 11  ,26th Apr 19
+169,Chaos;Head Dual,PSV,5pb  ,Genterprise  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,21st Aug 14  ,15th Jan 18
+170,Killer and Strawberry,PSV,Broccoli  ,Broccoli  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,23rd Aug 18  ,26th Sep 18
+171,London Detective Mysteria,PSV,Xseed Games  ,Karin Entertainment  ,7.0  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,18th Dec 18  ,27th Dec 18
+172,AKB1/48: Idol to Guam de Koishitara...,X360,Bandai Namco Games  ,Bandai Namco Games  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,06th Oct 11  ,10th May 19
+173,Hakuoki: Reimeiroku DS,DS,Idea Factory  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,26th Apr 12  ,08th May 19
+174,Root Double: Before Crime * After Days,X360,Yeti  ,Yeti  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,14th Jun 12  ,10th May 19
+175,Gakuen Hetalia,DS,Idea Factory  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,08th Mar 12  ,08th May 19
+176,Chaos;Child: Love Chu Chu!!,PSV,5pb  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,30th Mar 17  ,15th Jan 18
+177,Doukoku Soshite... Doukoku Soshite...,PS4,El Dia  ,El Dia  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,26th Apr 18  ,20th May 18
+178,Tokimeki Restaurant: Project Tristars,PSV,KOEI  ,Ruby Party  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,22nd Feb 18  ,07th Mar 18
+179,Akatsuki no Goei Trinity,PS3,5pb  ,Syangrila  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,20th Sep 12  ,26th Apr 19
+180,Onigokko! Portable,PSP,Alchemist  ,Alcot  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,27th Jun 13  ,26th Apr 19
+181,Hyakki Yagyou Kaidan Romance,PSP,Quinrose  ,QuinRose  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,25th Oct 12  ,26th Apr 19
+182,"Tengai ni Mau, Iki na Hana",PSV,Idea Factory  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,26th Apr 18  ,20th May 18
+183,The Fruit of Grisaia,PSP,Prototype  ,Front Wing  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,21st Feb 13  ,26th Apr 19
+184,To Heart 2: Another Days,PSP,Aqua Plus  ,Aqua Plus  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,30th Jul 09  ,26th Apr 19
+185,Chou no Doku: Hana no Kusari - Taishou Tsuyakoi Ibun,PSP,Prototype  ,Prototype  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,16th Jan 14  ,26th Apr 19
+186,Disorder 6,PS3,5pb  ,MAGES. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,22nd Aug 13  ,26th Apr 19
+187,Koezaru wa Akai Hana: Taiga wa Mirai o Tsugumu,PSP,Dramatic Create  ,Operetta Due  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,20th Mar 14  ,26th Apr 19
+188,Memories Off 6: Next Relation,PSP,5pb  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,14th Oct 10  ,19th Dec 18
+189,Chaos;Child: Love Chu Chu!!,PS4,5pb  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,30th Mar 17  ,15th Jan 18
+190,Makai Ouji: Devils and Realist - Dairiou no Hihou,3DS,Namco Bandai Games  ,Bandai Namco Games  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,26th Sep 13  ,07th May 19
+191,Doukoku Soshite... Doukoku Soshite...,PSV,El Dia  ,El Dia  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,26th Apr 18  ,20th May 18
+192,VA-11 HALL-A,PSV,Wolfgame  ,Sukeban Games  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,14th Nov 17  ,09th Jan 18
+193,Desert Kingdom Portable,PSP,Idea Factory  ,Design Factory  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,21st Feb 13  ,26th Apr 19
+194,"Iza, Shutshjin! Koisen Dai-ni-maku",PSP,Asgard  ,"GignoSystem Japan, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,27th Feb 14  ,26th Apr 19
+195,Steins;Gate Elite,PSV,5pb  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,20th Sep 18  ,06th Nov 18
+196,Clannad,PSV,Prototype  ,Prototype  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,14th Aug 14  ,22nd Mar 19
+197,Yoshiwara Higanbana Kuon no Chigiri,PSV,Prototype  ,Prototype  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,12th Oct 17  ,09th Jan 18
+198,Vitamin X: Destination,PSV,D3Publisher  ,HuneX  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,22nd Feb 18  ,08th Mar 18
+199,Grisaia Phantom Trigger 03 & 04,PSV,Prototype  ,Prototype  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,02nd Aug 18  ,25th Aug 18
+200,Maitetsu: Pure Station,PS4,Yeti  ,Lose  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,26th Jul 18  ,29th Aug 18
+201,Eiyuu * Senki,PSV,5pb  ,Tenco  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,29th May 14  ,27th Apr 19
+202,Phantom: Phantom of Inferno,X360,Digiturbo  ,Nitro+  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,25th Oct 12  ,27th Apr 19
+203,Memories Off: Innocent File,PS4,MAGES  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,29th Mar 18  ,07th Apr 18
+204,School Wars,PSP,Quinrose  ,QuinRose  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,29th Nov 12  ,27th Apr 19
+205,Flowers: Le volume sur hiver,PSV,Prototype  ,Prototype  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,16th Mar 18  ,30th Mar 18
+206,Kuroyukihime: Snow Black,PSP,Quinrose  ,QuinRose  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,24th Apr 14  ,27th Apr 19
+207,Moujuutsukai to Oujisama: Flower & Snow,PSV,Idea Factory  ,Otomate  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,11th Jun 15  ,15th May 19
+208,Nil Admirari no Tenbin: Irodori Nadeshiko,NS,Idea Factory  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,20th Sep 18  ,01st Oct 18
+209,Sengoku Hime 7: Sen'un Tsuranuku Guren no Ishi,PSV,System Soft Alpha  ,Gesen 18  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,11th Oct 18  ,07th Nov 18
+210,Kimi no Hitomi ni Hit Me,PSV,Entergram  ,Giga  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,22nd Feb 18  ,08th Mar 18
+211,Amaekata wa Kanojo Nari ni.,PSV,Entergram  ,Giga  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,26th Oct 17  ,13th Jan 18
+212,Lucky Dog 1,PSV,Prototype  ,Prototype  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,08th Mar 18  ,25th Mar 18
+213,Shiro to Kuro no Alice: Twilight Line,PSV,Idea Factory  ,"Kogado Studio, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,15th Nov 18  ,22nd Nov 18
+214,Cafe Cuillere,PSV,Takuyo  ,Takuyo  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,01st Jan 18  ,24th Jun 18
+215,Hyaku Monogatari: Kaidan Romance,PSP,Quinrose  ,QuinRose  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,26th Sep 13  ,01st May 19
+216,Koshotengai no Hashihime Noma,PSV,Dramatic Create  ,ADELTA  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,27th Sep 18  ,09th Oct 18
+217,Saiaku Naru Saiyaku Ningen ni Sasagu,PS4,Kemco  ,Kemco  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,23rd Aug 18  ,26th Sep 18
+218,Amatsutsumi,PSV,Prototype  ,Prototype  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,17th May 18  ,04th Jun 18
+219,Dance with Devils: My Carol,PSV,Rejet  ,Rejet  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,22nd Mar 18  ,06th Apr 18
+220,Memories Off: Innocent File,PSV,MAGES  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,29th Mar 18  ,07th Apr 18
+221,World End Syndrome,NS,Arc System Works  ,Arc System Works  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,02nd May 19  ,03rd Apr 19
+222,Sweet Pool,PSV,Dramatic Create  ,Dramatic Create  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,31st May 18  ,24th Jun 18
+223,Island Days,3DS,Stack  ,0verflow  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,N/A,0.00m,N/A,03rd Jul 14  ,01st May 19
+224,Daitoshokan no Hitsujikai: Library Party,NS,Aria  ,August  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,N/A,0.00m,N/A,26th Jul 18  ,30th Aug 18
+225,Cendrillon palikA,NS,Idea Factory  ,Otomate  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,N/A,0.00m,N/A,25th Oct 18  ,07th Nov 18
+226,Sanzen Sekai Yuugi: Re Multi Universe Myself,PSV,Dramatic Create  ,girls dynamics  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,N/A,0.00m,N/A,27th Sep 18  ,09th Oct 18
+227,Clannad,PS4,Prototype  ,Prototype  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,N/A,0.00m,N/A,14th Jun 18  ,22nd Mar 19
+228,Hakuoki: Shinkai - Fuukaden,NS,Idea Factory  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,N/A,0.00m,N/A,06th Sep 18  ,26th Sep 18
+229,Floral Flowlove,PSV,Entergram  ,Entergram  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,N/A,0.00m,N/A,23rd Aug 18  ,26th Sep 18
+230,Natsuiro Kokoro Log,PSV,Dramatic Create  ,Dramatic Create  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,N/A,0.00m,N/A,26th Apr 18  ,03rd Apr 18
+231,"Nora, Princess, and Stray Cat",PS4,Harukaze  ,Harukaze  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,N/A,0.00m,N/A,25th Oct 18  ,07th Nov 18
+232,D.S.: Dal Segno,PSV,Entergram  ,Entergram  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,N/A,0.00m,N/A,22nd Mar 18  ,07th Apr 18
+233,Hello Lady! Superior Dynamis,PSV,Dramatic Create  ,Dramatic Create  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,N/A,0.00m,N/A,25th Jan 18  ,02nd Mar 18
+234,Aokana: Four Rhythm Across the Blue,NS,Sprite  ,Sprite  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,N/A,0.00m,N/A,21st Aug 20  ,07th Apr 18
+235,Boku to Nurse no Kenshuu Nisshi,PS4,Entergram  ,Entergram  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,N/A,0.00m,N/A,23rd Aug 18  ,26th Sep 18
+236,Kanojo Step,PSV,Piacci  ,Piacci  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,N/A,0.00m,N/A,21st Mar 18  ,04th Apr 18
+237,Seven Days: Anata to Sugosu Nanokakan,PSV,Prototype  ,Prototype  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,N/A,0.00m,N/A,05th Jul 18  ,20th Jul 18
+238,Liberation Maiden SIN,PSV,5pb  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,N/A,0.00m,N/A,31st Jul 14  ,13th Apr 18
+239,"Nora, Princess, and Stray Cat",NS,Harukaze  ,Harukaze  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,N/A,0.00m,N/A,25th Oct 18  ,07th Nov 18
+240,Memories Off: Innocent File,NS,5pb  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,N/A,0.00m,N/A,25th Oct 18  ,07th Nov 18
+241,Enkan no Memoria: Kakera Tomoshi,PSV,Dramatic Create  ,A'sRing  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,N/A,0.00m,N/A,29th Mar 18  ,07th Apr 18
+242,Disorder 6,X360,5pb  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,N/A,0.00m,N/A,22nd Aug 13  ,02nd May 19
+243,Zero Escape: Virtue's Last Reward,PSV,Aksys Games  ,ChunSoft  ,9.0  ,N/A  ,N/A  ,N/A,0.00m,N/A,0.00m,N/A,0.00m,23rd Oct 12  ,25th Apr 19
+244,Chaos;Child,XOne,5pb  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Dec 14  ,24th Mar 19
+245,Cinders,OSX,MoaCube  ,MoaCube  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Jun 12  ,20th Aug 20
+246,Cinders,PC,MoaCube  ,MoaCube  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Jun 12  ,20th Aug 20
+247,Ever17: The Out of Infinity,X360,5pb  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 11  ,19th Dec 18
+248,Fate/hollow ataraxia,PC,Type-Moon  ,Type-Moon  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Oct 05  ,15th Nov 18
+249,Hatoful Boyfriend,Linux,Devolver Digital  ,Mediatonic Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Sep 14  ,08th Aug 18
+250,Hatoful Boyfriend,OSX,Devolver Digital  ,Mediatonic Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Sep 14  ,08th Aug 18
+251,L no Kisetsu 2: Invisible Memories,PS2,5pb  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Jul 08  ,19th Dec 18
+252,L no Kisetsu: Double Pocket,PSP,5pb  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Nov 09  ,19th Dec 18
+253,Liberation Maiden SIN,PS3,5pb  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Dec 13  ,12th Apr 18
+254,Lucian Bee's: Justice Yellow / Evil Violet,PSP,5pb  ,HuneX  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Oct 10  ,19th Dec 18
+255,Muv-Luv,X360,5pb  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Oct 11  ,19th Dec 18
+256,Muv-Luv Alternative,X360,5pb  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Oct 11  ,19th Dec 18
+257,Sakura Spirit,PC,Sekai Project  ,Sekai Project  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Jul 14  ,09th Aug 18
+258,Sakura Spirit,OSX,Sekai Project  ,Sekai Project  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Jul 14  ,09th Aug 18
+259,Sakura Spirit,Linux,Sekai Project  ,Sekai Project  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Jul 14  ,09th Aug 18
+260,Shan Gui,Linux,Ju Cai  ,Magenta Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Aug 14  ,09th Aug 18
+261,Shan Gui,PC,Ju Cai  ,Magenta Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Aug 14  ,09th Aug 18
+262,Shan Gui,OSX,Ju Cai  ,Magenta Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Aug 14  ,09th Aug 18
+263,じんるいのみなさまへ,NS,Unknown  ,Nippon Ichi Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,23rd Feb 19
+264,Alternate Jake Hunter: Daedalus The Awakening of Golden Jazz,PC,Arc System Works  ,Neilo Inc  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Jul 19  ,04th Jul 19
+265,Alternate Jake Hunter: Daedalus The Awakening of Golden Jazz,NS,Arc System Works  ,Neilo Inc  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd May 19  ,04th Jul 19
+266,Alternate Jake Hunter: Daedalus The Awakening of Golden Jazz,PS4,Arc System Works  ,Neilo Inc  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd May 19  ,04th Jul 19
+267,Anonymous;Code,NS,5pb  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,26th Jun 19
+268,Anonymous;Code,PS4,5pb  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,26th Jun 19
+269,Anonymous;Code,PSV,5pb  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,26th Jun 19
+270,Aokana: Four Rhythm Across the Blue,NS,Sprite  ,Sprite  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Aug 20  ,11th May 20
+271,Aokana: Four Rhythm Across the Blue,PC,Sprite  ,Sprite  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Sep 19  ,11th May 20
+272,Aokana: Four Rhythm Across the Blue,PS4,Sprite  ,Sprite  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Aug 20  ,11th May 20
+273,Aokana: Four Rhythm Across the Blue,PSV,Sprite  ,Sprite  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Feb 16  ,11th May 20
+274,Arcade Spirits,Linux,PQube  ,Fiction Factory Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Feb 19  ,16th Aug 19
+275,Arcade Spirits,NS,PQube  ,Fiction Factory Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,16th Aug 19
+276,Arcade Spirits,PC,PQube  ,Fiction Factory Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Feb 19  ,16th Aug 19
+277,Arcade Spirits,PS4,PQube  ,Fiction Factory Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,16th Aug 19
+278,Arcade Spirits,XOne,PQube  ,Fiction Factory Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,16th Aug 19
+279,Boku to Nurse no Kenshuu Nisshi,PC,Entergram  ,Entergram  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Aug 18  ,26th Sep 18
+280,Boku to Nurse no Kenshuu Nisshi,PSV,Entergram  ,Entergram  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Aug 18  ,26th Sep 18
+281,"Bury Me, My Love",NS,Plug In Digital  ,The Pixel Hunt  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Jan 19  ,12th Dec 18
+282,Bustafellows,NS,Unknown  ,Nippon Cultural Broadcasting eXtend  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,09th Feb 22
+283,Bustafellows,PC,Unknown  ,Nippon Cultural Broadcasting eXtend  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,09th Feb 22
+284,Chaos;Child,PC,Spike Chunsoft  ,MAGES. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Jan 19  ,24th Mar 19
+285,Chaos;Head Noah/Chaos;Child Double Pack,NS,Unknown  ,Spike Chunsoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,16th Apr 23
+286,Chuusotsu! 1st Graduation: Time After Time,PC,Unknown  ,Studio Beast  ,2.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,23rd Apr 18
+287,Ciconia When They Cry,PC,MangaGamer  ,07th Expansion  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Aug 19  ,06th May 19
+288,Cinders,PS4,Crunching Koalas  ,MoaCube  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Aug 20  ,20th Aug 20
+289,Cinders,XOne,Crunching Koalas  ,MoaCube  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Aug 20  ,20th Aug 20
+290,Clannad,NS,Prototype  ,Prototype  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Jul 19  ,04th Jul 19
+291,Clock Zero: Shuuen no Ichibyou Devote,NS,Idea Factory  ,Otomate  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Jun 19  ,08th Apr 19
+292,Code Realize Wintertide Miracles,PS4,Aksys Games  ,Aksys Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Feb 19  ,11th Nov 18
+293,Collar x Malice,NS,Aksys Games  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Jun 20  ,04th May 20
+294,Collar x Malice: Unlimited,NS,Aksys Games  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Aug 20  ,13th May 20
+295,CUPID - A free to play Visual Novel,PC,Afterthought Studios  ,Fervent Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Mar 16  ,03rd Apr 19
+296,Cupid Parasite,NS,Idea Factory  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Aug 20  ,11th May 20
+297,D.S.: Dal Segno,PS4,Entergram  ,Entergram  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Mar 18  ,07th Apr 18
+298,Danganronpa Decadence,NS,Spike Chunsoft  ,Spike Chunsoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Dec 21  ,15th Jun 21
+299,Danganronpa Trilogy,PS4,Unknown  ,Spike Chunsoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,16th Apr 23
+300,Dear Magi: Magical Boy's Department,NS,CaeruX  ,CaeruX  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Jun 19  ,09th Jun 19
+301,Diabolik Lovers: Chaos Lineage,NS,Idea Factory  ,Rejet  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Mar 19  ,22nd Mar 19
+302,Divine Slice of Life,PC,Dharker Studio  ,NickySwan  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Oct 15  ,03rd Apr 19
+303,Doki Doki Literature Club,PC,Team Salvato  ,Team Salvato  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Sep 17  ,12th Jan 18
+304,Doki Doki Literature Club Plus!,PS4,Serenity Forge  ,Team Salvato  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Jun 21  ,12th Nov 22
+305,Doki Doki Literature Club Plus!,PS5,Unknown  ,Team Salvato  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Jun 21
+306,Doki Doki Literature Club Plus!,PC,Unknown  ,Team Salvato  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Jun 21
+307,Doki Doki Literature Club Plus!,XOne,Unknown  ,Team Salvato  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Jun 21
+308,Doki Doki Literature Club Plus!,XS,Unknown  ,Team Salvato  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Jun 21
+309,Doki Doki Literature Club Plus!,NS,Serenity Forge  ,Team Salvato  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Jun 21  ,13th Jun 21
+310,Dull Grey,NS,Unknown  ,Provodnik Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,02nd May 21
+311,Dull Grey,PSV,Unknown  ,Provodnik Games  ,2.5  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,02nd May 21
+312,Dull Grey,PS4,Unknown  ,Provodnik Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,02nd May 21
+313,Dull Grey,XOne,Unknown  ,Provodnik Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,02nd May 21
+314,Eden*,PC,MangaGamer  ,minori  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Jan 15  ,15th Feb 18
+315,Eve: Rebirth Terror,PS4,El Dia  ,El Dia  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Apr 19  ,23rd Mar 19
+316,Eve: Rebirth Terror,PSV,El Dia  ,El Dia  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Apr 19  ,23rd Mar 19
+317,fault - milestone one,NS,Sekai Project  ,ALICE IN DISSONANCE  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Oct 19  ,04th Apr 19
+318,fault - milestone one,PS4,Unknown  ,ALICE IN DISSONANCE  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,04th Apr 19
+319,fault - SILENCE THE PEDANT,PC,Unknown  ,ALICE IN DISSONANCE  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,04th Apr 19
+320,fault - StP - LIGHTKRAVTE,PC,Phoenixx Inc.  ,ALICE IN DISSONANCE  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th May 22  ,21st Sep 22
+321,Floral Flowlove,PC,Entergram  ,Entergram  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Aug 18  ,26th Sep 18
+322,Floral Flowlove,PS4,Entergram  ,Entergram  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Aug 18  ,26th Sep 18
+323,Flowers: Les Quatre Saisons,PS4,Prototype  ,Innocent Grey  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Mar 19  ,21st Mar 19
+324,Full Kiss,PS4,Entergram  ,Giga  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Mar 19  ,23rd Mar 19
+325,Full Kiss,PSV,Entergram  ,Giga  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Mar 19  ,23rd Mar 19
+326,Gnosia,NS,Playism  ,Petit Depotto  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Mar 21  ,07th Mar 21
+327,Gnosia,PSV,Unknown  ,Petit Depotto  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,07th May 19
+328,Grisaia Phantom Trigger 01 & 02,PSV,Prototype  ,Prototype  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Dec 17  ,25th Aug 18
+329,Hakuoki Shinkai: Ginsei no Sho,NS,Idea Factory  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Jul 20  ,09th May 20
+330,Hakuoki: Edo Blossoms,PSV,Idea Factory  ,Otomate  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Apr 18  ,08th Jan 18
+331,"Hanayaka Kana, Ware ga Ichizoku: Gentou Nostalgie",NS,Idea Factory  ,Ichi Column  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th May 19  ,08th Apr 19
+332,"Hanayaka Nari, Waga Ichizoku Modern Nostalgie",NS,Idea Factory  ,Ichi Column  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th May 19  ,25th Mar 19
+333,Haruoto Alice ＊ Gram Snow Drop,PS4,Entergram  ,NanaWind  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Mar 19  ,23rd Mar 19
+334,Haruoto Alice ＊ Gram Snow Drop,PSV,Entergram  ,NanaWind  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Mar 19  ,23rd Mar 19
+335,Hatoful Boyfriend,PSV,Devolver Digital  ,Mediatonic Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Jul 15  ,07th Aug 18
+336,Hatoful Boyfriend,PS4,Devolver Digital  ,Mediatonic Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Jul 15  ,07th Aug 18
+337,Heart of the Woods,NS,Sekai Project  ,Studio Elan  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,19th Jun 19
+338,Heart of the Woods,PC,Sekai Project  ,Studio Elan  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Feb 19  ,19th Jun 19
+339,Higurashi no Naku Koro ni Hou,PS4,Entergram  ,07th Expansion  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Jan 19  ,03rd Feb 19
+340,If My Heart Had Wings -Flight Diary-,PC,MoeNovel  ,MoeNovel  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Feb 19  ,16th Apr 19
+341,Irony Curtain: From Matryoshka,PC,Unknown  ,Artifex Mundi  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,25th Jul 18
+342,Irony Curtain: From Matryoshka,PS4,Unknown  ,Artifex Mundi  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,25th Jul 18
+343,Irony Curtain: From Matryoshka,XOne,Unknown  ,Artifex Mundi  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,25th Jul 18
+344,Irony Curtain: From Matryoshka,NS,Unknown  ,Artifex Mundi  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,25th Jul 18
+345,Jack Jeanne,NS,Broccoli  ,Broccoli  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Dec 20  ,16th May 20
+346,Jakou no Lyla: Trap of Musk,NS,Idea Factory  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Sep 19  ,22nd Mar 19
+347,Karigurashi Renai,PS4,Entergram  ,ASa Project  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Feb 19  ,09th Mar 19
+348,Karigurashi Renai,PSV,Entergram  ,ASa Project  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Feb 19  ,09th Mar 19
+349,Katakoi Contrast: Collection of Branch,NS,Idea Factory  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Aug 19  ,22nd Mar 19
+350,Kenka Bancho Otome: 2nd Rumble!!,PSV,Spike Chunsoft  ,RED Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Mar 19  ,22nd Mar 19
+351,Konoyo no Hate de Koi o Utau Shoujo: Yu-No,NS,5pb  ,MAGES  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Mar 19  ,22nd Mar 19
+352,Kotodama: The 7 Mysteries of Fujisawa,PS4,PQube  ,Art Co. Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Jun 19  ,03rd Apr 19
+353,Kotodama: The 7 Mysteries of Fujisawa,NS,PQube  ,Art Co. Ltd.  ,N/A  ,N/A  ,1.0  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Jun 19  ,03rd Apr 19
+354,Kotodama: The 7 Mysteries of Fujisawa,PC,PQube  ,Art Co. Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Jun 19  ,03rd Apr 19
+355,Last Stanza,PC,Unknown  ,Sekai Project  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,01st Jul 18
+356,London Detective Mysteria,PSP,Marvelous Interactive  ,Karin Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Mar 13  ,27th Dec 18
+357,Memories Off: Innocent Fille for Dearest,NS,5pb  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Mar 19  ,22nd Mar 19
+358,Memories Off: Innocent Fille for Dearest,PSV,5pb  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Mar 19  ,22nd Mar 19
+359,Memories Off: Innocent Fille for Dearest,PS4,5pb  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Mar 19  ,22nd Mar 19
+360,Mhakna Gramura and Fairy Bell,PC,Alice in Dissonance  ,ALICE IN DISSONANCE  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Feb 18  ,21st Sep 22
+361,Mission: It's Complicated,PC,Unknown  ,Schell Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Jan 21
+362,MONMUSU,PC,NEKO WORKs  ,Tentacle Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th May 18  ,21st Apr 19
+363,Moujuutsukai to Oujisama: Flower & Snow,NS,Idea Factory  ,Otomate  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th May 19  ,15th May 19
+364,Muv-Luv,PSV,PQube  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jun 18  ,22nd Apr 19
+365,Muv-Luv Alternative,PSV,PQube  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jun 18  ,22nd Apr 19
+366,My Aunt is a Witch,NS,Unknown  ,Sometimes You  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,01st Dec 20
+367,My Aunt is a Witch,PSV,Unknown  ,Sometimes You  ,4.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,01st Dec 20
+368,My Aunt is a Witch,PS4,Unknown  ,Sometimes You  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,01st Dec 20
+369,My Aunt is a Witch,XOne,Unknown  ,Sometimes You  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,01st Dec 20
+370,My Aunt is a Witch,XS,Unknown  ,Sometimes You  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,01st Dec 20
+371,My Girlfriend is a Mermaid!?,PC,Sekai Project  ,Cosen  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Sep 18  ,24th Feb 19
+372,My Girlfriend is a Mermaid!?,NS,Sekai Project  ,Cosen  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Feb 19  ,24th Feb 19
+373,N.E.R.O.: Nothing Ever Remains Obscure,NS,Unknown  ,Storm in a Teacup  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,17th Jul 18
+374,N1RV Ann-A,NS,Unknown  ,Sukeban Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,25th Sep 18
+375,Nekojishi,PC,Orange Juice Dog  ,Team Nekojishi  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Nov 17  ,07th Apr 19
+376,Nekopara,NS,Sekai Project  ,Neko Works  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Dec 18  ,28th Jan 18
+377,"Nora, Princess, and Crying Cat",NS,Piacci  ,Harukaze  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Feb 19  ,24th Feb 19
+378,"Nora, Princess, and Crying Cat",PS4,Piacci  ,Harukaze  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Feb 19  ,24th Feb 19
+379,"Nora, Princess, and Crying Cat",PSV,Piacci  ,Harukaze  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Feb 19  ,24th Feb 19
+380,One Night Stand,NS,Kinmoku  ,Kinmoku  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Oct 19  ,11th Jun 19
+381,One Night Stand,PC,Kinmoku  ,Kinmoku  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Oct 16  ,11th Jun 19
+382,One Night Stand,PS4,Kinmoku  ,Kinmoku  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Oct 19  ,11th Jun 19
+383,One Night Stand,XOne,Kinmoku  ,Kinmoku  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Oct 19  ,11th Jun 19
+384,Our World Is Ended.,PSV,PQube  ,RED Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Nov 17  ,24th Feb 19
+385,Our World Is Ended.,PC,PQube  ,RED Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th May 19  ,24th Feb 19
+386,Our World Is Ended.,PS4,PQube  ,RED Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Mar 19  ,24th Feb 19
+387,Our World Is Ended.,NS,PQube  ,RED Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Mar 19  ,24th Feb 19
+388,Pantsu Hunter: Back to the 90s,PC,Unknown  ,Ascension Dream  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,22nd Aug 19
+389,Pantsu Hunter: Back to the 90s,NS,Unknown  ,Ascension Dream  ,3.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,22nd Aug 19
+390,Please Be Happy,NS,Sekai Project  ,Studio Elan  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,17th Jul 20
+391,Please Be Happy,PC,Sekai Project  ,Studio Elan  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,17th Jul 20
+392,Private Bellbara Academy: Rose of Versailles Re*imagination,NS,Idea Factory  ,Otomate  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd May 19  ,25th Mar 19
+393,Psychedelica of the Ashen Hawk,PC,Idea Factory  ,Otomate  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 19  ,15th Apr 19
+394,Raging loop,NS,Unknown  ,Kemco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,03rd May 20
+395,Reine des Fleurs,NS,Idea Factory  ,Otomate  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Apr 19  ,22nd Mar 19
+396,Robotics;Notes DaSH,NS,Spike Chunsoft  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Oct 20  ,06th Feb 19
+397,Robotics;Notes DaSH,PC,Spike Chunsoft  ,MAGES  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Oct 20  ,19th May 20
+398,Robotics;Notes DaSH,PS4,Spike Chunsoft  ,5pb. Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Oct 20  ,06th Feb 19
+399,Robotics;Notes Elite,NS,Spike Chunsoft  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Oct 20  ,19th May 20
+400,Robotics;Notes Elite,PS4,Spike Chunsoft  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Oct 20  ,19th May 20
+401,Robotics;Notes Elite,PC,Spike Chunsoft  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Oct 20  ,19th May 20
+402,Root Double: Before Crime * After Days,NS,Sekai Project  ,Regista  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,16th Jun 19
+403,Root Film,NS,Kadokawa Games  ,Kadokawa Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Jul 20  ,09th May 20
+404,Root Film,PS4,Kadokawa Games  ,Kadokawa Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Jul 20  ,09th May 20
+405,Root Letter: Last Answer,PC,Kadokawa Games  ,Kadokawa Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Sep 19  ,15th Aug 19
+406,Saku Saku: Love Blooms with the Cherry Blossoms,PS4,Dramatic Create  ,PALETTE  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Feb 19  ,23rd Mar 19
+407,Saku Saku: Love Blooms with the Cherry Blossoms,PC,Sekai Project  ,PALETTE  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Oct 17  ,23rd Mar 19
+408,Saya no Uta,PC,Unknown  ,Nitroplus  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,07th Oct 20
+409,Sharin no Kuni: The Girl Among the Sunflowers,PSV,Unknown  ,AKABEi SOFT2  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,16th Jun 19
+410,Sharin no Kuni: The Girl Among the Sunflowers,PC,Unknown  ,AKABEi SOFT2  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,16th Jun 19
+411,Shin Hayarigami 1 and 2 Pack,NS,Nippon Ichi Software  ,Nippon Ichi Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Jul 19  ,25th Apr 19
+412,Silverio Trinity: Beyond the Horizon,PSV,Light  ,Light  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Mar 19  ,23rd Mar 19
+413,Sisters In Hotel,PC,bch waves studio  ,bch waves studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Jun 17  ,04th Apr 19
+414,Sisters In Hotel: Episode 2,PC,bch waves studio  ,bch waves studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Apr 18  ,04th Apr 19
+415,Sisters In Hotel: Episode 3,PC,Unknown  ,bch waves studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,29th Mar 19
+416,Soi Kano: Gyutto Dakishimete,PSV,Entergram  ,Giga  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Feb 19  ,09th Mar 19
+417,Soi Kano: Gyutto Dakishimete,PS4,Entergram  ,Giga  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Feb 19  ,09th Mar 19
+418,Soi Kano: Gyutto Dakishimete,NS,Entergram  ,Giga  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Feb 19  ,09th Mar 19
+419,Song of Memories,PC,Unknown  ,"Future Tech Lab Co.,Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,03rd Feb 18
+420,Song of Memories,PS4,PQube  ,"Future Tech Lab Co.,Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Jan 19  ,03rd Feb 18
+421,Song of Memories,NS,Unknown  ,"Future Tech Lab Co.,Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,03rd Feb 18
+422,Spirit Hunter: NG,PSV,Aksys Games  ,Experience Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Oct 19  ,01st May 20
+423,Spirit Hunter: NG,NS,Aksys Games  ,Experience Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Oct 19  ,01st May 20
+424,Spirit Hunter: NG,PC,Aksys Games  ,Experience Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Oct 19  ,01st May 20
+425,Spirit Hunter: NG,PS4,Aksys Games  ,Experience Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Oct 19  ,01st May 20
+426,Steins;Gate: Divergencies Assort,NS,5pb  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Mar 19  ,22nd Mar 19
+427,Steins;Gate: My Darling's Embrace,NS,Spike Chunsoft  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Dec 19  ,11th Dec 19
+428,Steins;Gate: My Darling's Embrace,PC,Spike Chunsoft  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Dec 19  ,11th Dec 19
+429,Steins;Gate: My Darling's Embrace,PS4,Spike Chunsoft  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Dec 19  ,11th Dec 19
+430,Suki to Suki to de Sankaku Ren'ai,PSV,Entergram  ,ASa Project  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Jan 19  ,03rd Feb 19
+431,Summer Pockets,NS,Prototype  ,Key  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Jun 19  ,26th Mar 19
+432,Synergia,NS,Unknown  ,Radi Art  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Apr 21
+433,Synergia,PC,Unknown  ,Radi Art  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Apr 21
+434,Synergia,PS4,Unknown  ,Radi Art  ,7.5  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Apr 21
+435,Synergia,PSV,Unknown  ,Radi Art  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Apr 21
+436,Synergia,XOne,Unknown  ,Radi Art  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Apr 21
+437,Taishou x Alice: All in One,NS,Prototype  ,Prototype  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Apr 19  ,22nd Mar 19
+438,Tales from the Borderlands,NS,2K Games  ,2K Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Mar 21  ,17th Feb 21
+439,The 25th Ward: The Silver Case,PC,NIS America  ,Grasshopper Manufacture  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Mar 18  ,02nd Apr 18
+440,The 25th Ward: The Silver Case,PS4,NIS America  ,Grasshopper Manufacture  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Mar 18  ,11th Sep 18
+441,The Fox Is Waiting For Me,NS,Unknown  ,Tales Shop  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,15th Apr 18
+442,The House in Fata Morgana: Dream of the Revenants Edition,PS4,Mighty Rabbit Studios  ,Novectacle  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Jun 19  ,13th Jun 19
+443,The House in Fata Morgana: Dreams of the Revenants Edition,NS,Limited Run Games  ,Novectacle  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Apr 21  ,10th Jan 20
+444,The Mind's Eclipse,PC,Mind's Eclipse Interactive  ,Unknown  ,7.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Jan 18  ,28th Jan 18
+445,The Silver Case,PC,Grasshopper Manufacture Inc.  ,Grasshopper Manufacture  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Oct 16  ,11th Sep 18
+446,The Silver Case,PS,ASCII Entertainment  ,Grasshopper Manufacture  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Oct 99  ,11th Sep 18
+447,The Three Kingdoms Love Story ~ The Art of Otome!,NS,Prototype  ,Prototype  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Nov 18  ,26th Apr 19
+448,The Walking Dead - A Telltale Series - The Final Season,PS4,Telltale Games  ,Telltale Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Jan 19  ,11th Sep 18
+449,The Walking Dead - A Telltale Series - The Final Season,XOne,Telltale Games  ,Telltale Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Jan 19  ,11th Sep 18
+450,The Wreck,PS5,Unknown  ,The Pixel Hunt  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Apr 23
+451,The Wreck,XOne,Unknown  ,The Pixel Hunt  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Apr 23
+452,The Wreck,XS,Unknown  ,The Pixel Hunt  ,6.5  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Apr 23
+453,The Wreck,NS,Unknown  ,The Pixel Hunt  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Apr 23
+454,The Wreck,PC,Unknown  ,The Pixel Hunt  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Apr 23
+455,The Wreck,PS4,Unknown  ,The Pixel Hunt  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Apr 23
+456,Tlicolity Eyes: Twinkle Snowtime,NS,Idea Factory  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Jul 19  ,22nd Mar 19
+457,VA-11 HALL-A,NS,Ysbryd Games  ,Sukeban Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd May 19  ,15th May 19
+458,VA-11 HALL-A,PS4,Playism  ,Sukeban Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th May 19  ,15th May 19
+459,Vampire: The Masquerade – Night Road,And,Choice of Games  ,Choice of Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Sep 20  ,29th Jul 20
+460,Vampire: The Masquerade – Night Road,iOS,Choice of Games  ,Choice of Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Sep 20  ,29th Jul 20
+461,Vampire: The Masquerade – Night Road,PC,Choice of Games  ,Choice of Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Sep 20  ,29th Jul 20
+462,Vampire: The Masquerade – Night Road,Linux,Choice of Games  ,Choice of Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Sep 20  ,29th Jul 20
+463,Vampire: The Masquerade – Shadows of New York,NS,Draw Distance  ,Draw Distance  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Sep 20  ,31st Jul 20
+464,Vampire: The Masquerade – Shadows of New York,PC,Draw Distance  ,Draw Distance  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Sep 20  ,31st Jul 20
+465,Vampire: The Masquerade – Shadows of New York,PS4,Draw Distance  ,Draw Distance  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Sep 20  ,31st Jul 20
+466,Vampire: The Masquerade – Shadows of New York,XOne,Draw Distance  ,Draw Distance  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Sep 20  ,31st Jul 20
+467,Vampire: The Masquerade – Shadows of New York,Linux,Draw Distance  ,Draw Distance  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Sep 20  ,31st Jul 20
+468,Variable Barricade,PSV,Idea Factory  ,Otomate  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Apr 19  ,31st Mar 19
+469,Werewolf: The Apocalypse – Heart of the Forest,PC,Walkabout  ,Different Tales  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Oct 20  ,05th Aug 20
+470,Wheels of Aurelia,PS4,Mixedbag Srl  ,Santa Ragione Srl  ,N/A  ,8.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Oct 16  ,13th May 18
+471,WILL: A Wonderful World,PC,AGM Playism  ,4D Door Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Jun 17  ,17th Dec 18
+472,WILL: A Wonderful World,PS4,PM Studios  ,4D Door Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Mar 19  ,17th Dec 18
+473,WILL: A Wonderful World,NS,PM Studios  ,4D Door Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Mar 19  ,17th Dec 18
+474,Without Within,PC,InvertMouse  ,InvertMouse  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Jan 15  ,25th Dec 18
+475,Without Within 2,PC,InvertMouse  ,InvertMouse  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Nov 15  ,25th Dec 18
+476,Without Within 3,PC,InvertMouse  ,InvertMouse  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd May 18  ,25th Dec 18
+477,World End Syndrome,PS4,Arc System Works  ,Arc System Works  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Apr 18  ,03rd Apr 19
+478,World End Syndrome,PSV,Arc System Works  ,Arc System Works  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Apr 18  ,03rd Apr 19
+479,XBlaze Lost: Memories,PC,Aksys Games  ,Arc System Works  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Aug 16  ,28th Jan 19
+480,"Yoru, Tomosu",NS,Nippon Ichi Software  ,Nippon Ichi Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Jul 20  ,09th May 20
+481,"Yoru, Tomosu",PS4,Nippon Ichi Software  ,Nippon Ichi Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Jul 20  ,09th May 20
+482,Yunohana SpRING! ~Mellow Times~,NS,Idea Factory  ,Otomate  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Feb 19  ,24th Feb 19

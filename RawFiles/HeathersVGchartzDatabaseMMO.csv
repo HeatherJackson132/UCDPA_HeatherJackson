@@ -1,0 +1,113 @@
+position,game,console,publisher,developer,vgchart_score,critic_score,user_score,total_shipped,total_sales,na_sales,pal_sales,japan_sales,other_sales,release_date,last_update
+1,World of WarCraft,Series,Blizzard Entertainment  ,Blizzard Entertainment  ,N/A  ,N/A  ,N/A  ,40.60m,N/A,N/A,N/A,N/A,N/A,23rd Nov 04  ,20th Mar 20
+2,Guild Wars,Series,NCSoft  ,ArenaNet  ,N/A  ,N/A  ,N/A  ,13.50m,N/A,N/A,N/A,N/A,N/A,26th Apr 05  ,19th Feb 20
+3,World of Warcraft,PC,Blizzard Entertainment  ,Blizzard Entertainment  ,N/A  ,9.2  ,8.0  ,12.00m,N/A,N/A,N/A,N/A,N/A,23rd Nov 04  ,22nd Apr 18
+4,World of Warcraft: Cataclysm,PC,Blizzard Entertainment  ,Blizzard Entertainment  ,9.0  ,9.0  ,N/A  ,4.70m,N/A,N/A,N/A,N/A,N/A,07th Dec 10  ,22nd Apr 18
+5,World of Warcraft: Wrath of the Lich King,PC,Blizzard Entertainment  ,Blizzard Entertainment  ,N/A  ,9.3  ,9.3  ,4.00m,N/A,N/A,N/A,N/A,N/A,13th Nov 08  ,22nd Apr 18
+6,World of Warcraft: Shadowlands,PC,Blizzard Entertainment  ,Blizzard Entertainment  ,N/A  ,N/A  ,N/A  ,3.70m,N/A,N/A,N/A,N/A,N/A,24th Oct 20  ,05th Aug 20
+7,World of Warcraft: The Burning Crusade,PC,Blizzard Entertainment  ,Blizzard Entertainment  ,N/A  ,9.2  ,N/A  ,3.50m,N/A,N/A,N/A,N/A,N/A,16th Jan 07  ,22nd Apr 18
+8,World of Warcraft: Battle for Azeroth,PC,Blizzard Entertainment  ,Blizzard Entertainment  ,N/A  ,N/A  ,N/A  ,3.40m,N/A,N/A,N/A,N/A,N/A,14th Aug 18  ,19th Apr 18
+9,World of Warcraft: Legion,PC,Blizzard Entertainment  ,Blizzard Entertainment  ,N/A  ,N/A  ,N/A  ,3.30m,N/A,N/A,N/A,N/A,N/A,29th Aug 16  ,22nd Apr 18
+10,World of Warcraft: Warlords of Draenor,PC,Activision Blizzard  ,Blizzard Entertainment  ,N/A  ,N/A  ,N/A  ,3.30m,N/A,N/A,N/A,N/A,N/A,13th Nov 14  ,22nd Apr 18
+11,World of Warcraft: Mists of Pandaria,PC,Blizzard Entertainment  ,Blizzard Entertainment  ,8.4  ,N/A  ,N/A  ,2.70m,N/A,N/A,N/A,N/A,N/A,25th Sep 12  ,22nd Apr 18
+12,The Elder Scrolls Online: Tamriel Unlimited,PS4,Bethesda Softworks  ,ZeniMax Online Studios  ,N/A  ,N/A  ,N/A  ,N/A,2.05m,0.74m,0.98m,N/A,0.33m,09th Jun 15  ,15th Sep 18
+13,Final Fantasy XI: Online,All,Sony Computer Entertainment  ,Square  ,N/A  ,N/A  ,N/A  ,1.77m,N/A,N/A,N/A,N/A,N/A,23rd Mar 04  ,14th Jan 21
+14,Final Fantasy XIV Online,PC,Square Enix  ,Square Enix  ,N/A  ,5.3  ,N/A  ,1.45m,N/A,N/A,N/A,N/A,N/A,22nd Sep 10  ,22nd Apr 18
+15,The Elder Scrolls Online: Tamriel Unlimited,XOne,Bethesda Softworks  ,ZeniMax Online Studios  ,N/A  ,N/A  ,N/A  ,N/A,1.38m,0.86m,0.39m,N/A,0.13m,09th Jun 15  ,15th Sep 18
+16,Black Desert Online,PC,Kakao Games  ,Pearl Abyss  ,N/A  ,N/A  ,N/A  ,1.20m,N/A,N/A,N/A,N/A,N/A,03rd Mar 16  ,07th Jan 19
+17,Miscreated,PC,Unknown  ,Entrada Interactive  ,N/A  ,N/A  ,N/A  ,1.12m,N/A,N/A,N/A,N/A,N/A,N/A  ,04th Feb 19
+18,The Elder Scrolls Online,PC,Bethesda Softworks  ,ZeniMax Online Studios  ,6.9  ,N/A  ,N/A  ,N/A,1.02m,0.35m,0.59m,N/A,0.08m,04th Apr 14  ,15th Sep 18
+19,Dragon Quest X,All,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,1.00m,N/A,N/A,N/A,N/A,N/A,02nd Aug 12  ,07th Jan 21
+20,Final Fantasy XIV Online,PS3,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,0.87m,0.39m,0.09m,0.28m,0.11m,27th Aug 13  ,22nd Apr 18
+21,Final Fantasy XIV: A Realm Reborn,PS4,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,0.79m,0.35m,0.23m,0.08m,0.12m,14th Apr 14  ,23rd Jan 18
+22,Dragon Quest X,Wii,Unknown  ,Square Enix  ,N/A  ,N/A  ,N/A  ,0.70m,N/A,N/A,N/A,N/A,N/A,N/A  ,22nd Apr 18
+23,DC Universe Online,PS3,Sony Online Entertainment  ,WBIE  ,N/A  ,6.5  ,N/A  ,N/A,0.51m,0.35m,0.11m,N/A,0.06m,11th Jan 11  ,15th Sep 18
+24,Dragon Quest X,WiiU,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,0.42m,N/A,N/A,0.42m,N/A,30th Mar 13  ,22nd Apr 18
+25,Final Fantasy XI: Online,PS2,Square Enix  ,Square Enix  ,N/A  ,8.4  ,N/A  ,N/A,0.32m,0.08m,0.06m,0.15m,0.02m,21st Sep 04  ,22nd Apr 18
+26,The Elder Scrolls Online: Morrowind,PS4,Bethesda Softworks  ,ZeniMax Online Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.24m,0.11m,0.09m,N/A,0.04m,06th Jun 17  ,15th Sep 18
+27,DC Universe Online,PC,Sony Online Entertainment  ,WBIE  ,7.7  ,7.0  ,N/A  ,N/A,0.23m,0.16m,0.06m,N/A,0.02m,11th Jan 11  ,15th Sep 18
+28,Tower Unite,PC,Unknown  ,PixelTail Games  ,N/A  ,N/A  ,N/A  ,0.23m,N/A,N/A,N/A,N/A,N/A,N/A  ,20th Feb 19
+29,Bless Online,PC,Unknown  ,Neowiz Corporation  ,N/A  ,N/A  ,N/A  ,0.19m,N/A,N/A,N/A,N/A,N/A,N/A  ,01st Mar 19
+30,Dragon Quest X,3DS,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,N/A,N/A,0.17m,N/A,04th Sep 14  ,22nd Apr 18
+31,Final Fantasy XIV: Heavensward,PS4,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,N/A,0.09m,0.06m,0.02m,23rd Jun 15  ,22nd Apr 18
+32,Final Fantasy XIV: Stormblood,PS4,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,0.05m,0.06m,0.04m,0.02m,20th Jun 17  ,30th Jun 18
+33,WildStar,PC,Carbine Studios  ,Carbine Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.16m,0.08m,0.07m,N/A,0.01m,03rd Jun 14  ,04th Nov 18
+34,The Elder Scrolls Online: Morrowind,XOne,Bethesda Softworks  ,ZeniMax Online Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,0.09m,0.03m,N/A,0.01m,06th Jun 17  ,15th Sep 18
+35,The Elder Scrolls Online: Summerset,XOne,Bethesda Softworks  ,ZeniMax Online Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,0.09m,0.01m,N/A,0.01m,21st May 18  ,15th Sep 18
+36,Gloria Victis,PC,Black Eye Games  ,Black Eye Games  ,N/A  ,N/A  ,N/A  ,0.10m,N/A,N/A,N/A,N/A,N/A,09th Jun 16  ,27th Mar 19
+37,The Elder Scrolls Online: Summerset,PS4,Bethesda Softworks  ,ZeniMax Online Studios  ,N/A  ,7.5  ,N/A  ,N/A,0.10m,0.08m,N/A,N/A,0.02m,21st May 18  ,15th Sep 18
+38,Final Fantasy XIV Online Complete Edition,PS4,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.07m,N/A,0.02m,0.02m,20th Jun 17  ,10th Jul 18
+39,Final Fantasy XIV: Stormblood,PC,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.04m,0.02m,N/A,0.01m,20th Jun 17  ,30th Jun 18
+40,The Elder Scrolls Online: Morrowind,PC,Bethesda Softworks  ,ZeniMax Online Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.02m,0.03m,N/A,0.00m,06th Jun 17  ,15th Sep 18
+41,Dragon Quest X: All in One Package,NS,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,N/A,21st Sep 17  ,15th Sep 18
+42,Final Fantasy XIV: Heavensward,PS3,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.02m,N/A,0.01m,0.00m,23rd Jun 15  ,23rd Apr 18
+43,Final Fantasy XIV: Heavensward,PC,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.02m,0.01m,N/A,0.00m,23rd Jun 15  ,23rd Apr 18
+44,Dragon Quest X: 5000-nen no Harukanaru Kokyou e Online,WiiU,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,16th Nov 17  ,15th Sep 18
+45,Dragon Quest X: All in One Package Ver.1-4,NS,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,26th Jul 18  ,15th Sep 18
+46,Dragon Quest X: 5000-nen no Harukanaru Kokyou e Online,NS,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,16th Nov 17  ,15th Sep 18
+47,Dragon Quest X: All in One Package,WiiU,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,03rd Dec 15  ,15th Sep 18
+48,Dragon Quest X: All in One Package Ver.1-4,PS4,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,26th Jul 18  ,06th Nov 18
+49,The Elder Scrolls Online: Summerset,PC,Bethesda Softworks  ,ZeniMax Online Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,0.01m,N/A,0.00m,21st May 18  ,15th Sep 18
+50,Final Fantasy XIV Online Complete Edition,PC,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,0.01m,N/A,0.00m,20th Jun 17  ,10th Jul 18
+51,Angel Love Online,PS3,Q Entertainment  ,UserJoy Technology  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Jul 11  ,15th Sep 18
+52,Angel Love Online,PSN,Q Entertainment  ,UserJoy Technology  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Sep 08  ,15th Sep 18
+53,DC Universe Online,PSN,Sony Online Entertainment  ,WBIE  ,N/A  ,6.7  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Mar 11  ,15th Sep 18
+54,DC Universe Online,PS4,Sony Online Entertainment  ,Sony Online Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Nov 13  ,15th Sep 18
+55,Dragon Quest X,PC,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Sep 13  ,22nd Apr 18
+56,Dragon Quest X: Inishie no Ryuu no Denshou Online,WiiU,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Apr 15  ,15th Sep 18
+57,Dragon's Prophet,PC,Sony Online Entertainment  ,Runewalker Entertainment Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Sep 18  ,16th Sep 18
+58,EverQuest Next,PC,Sony Online Entertainment  ,Sony Online Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 16  ,15th Sep 18
+59,EverQuest Next,PS4,Sony Online Entertainment  ,Sony Online Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 16  ,15th Sep 18
+60,Realm of the Mad God,PC,Miniclip SA  ,Wild Shadow Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Jun 11  ,24th Jul 18
+61,Realm of the Mad God,PC,Kabam  ,Wild Shadow Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Feb 12  ,24th Jul 18
+62,Realm of the Mad God,OSX,Kabam  ,Wild Shadow Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Feb 12  ,24th Jul 18
+63,The Elder Scrolls Online,OSX,Bethesda Softworks  ,Bethesda Game Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Apr 14  ,15th Sep 18
+64,World of Warcraft: Warlords of Draenor,OSX,Blizzard Entertainment  ,Blizzard Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Nov 14  ,11th Aug 18
+65,Aberoth,PC,Jarbit  ,Jarbit  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Jul 15  ,08th Apr 19
+66,Arena Of Valor,NS,Unknown  ,TiMi Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,08th Nov 20
+67,ATLAS,XOne,Studio Wildcard  ,Studio Wildcard  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Oct 19  ,12th Dec 18
+68,ATLAS,PC,Studio Wildcard  ,Studio Wildcard  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Dec 18  ,12th Dec 18
+69,Bit Heroes,PC,Kongregate  ,Juppiomenz  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Dec 17  ,07th Apr 19
+70,Black Desert,XOne,Pearl Abyss  ,Pearl Abyss  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Mar 19  ,07th Jan 19
+71,Bless Unleashed,XOne,Neowiz Corporation  ,Round8 Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Mar 20  ,29th Sep 20
+72,Bless Unleashed,PC,Neowiz Corporation  ,Round8 Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,29th Sep 20
+73,Bless Unleashed,PS4,Neowiz Corporation  ,Round8 Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Oct 20  ,29th Sep 20
+74,Blue Protocol,PC,Bandai Namco Entertainment  ,Bandai Namco Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,26th Jul 19
+75,Blue Protocol,PS5,Unknown  ,Bandai Namco Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,09th Dec 22
+76,Blue Protocol,XS,Unknown  ,Bandai Namco Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,09th Dec 22
+77,Closers,PC,En Masse Entertainment  ,Naddic Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Nov 16  ,24th Mar 19
+78,Closers,PS4,En Masse Entertainment  ,Naddic Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 20  ,24th Mar 19
+79,Dragon Quest X: All in One Package Ver.1-4,PC,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jul 18  ,06th Nov 18
+80,Dragon Quest X: All in One Package Ver.1-4,WiiU,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jul 18  ,15th Sep 18
+81,Everspace,NS,Rockfish Games  ,Rockfish Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Dec 18  ,08th Nov 20
+82,Final Fantasy XIV: Endwalker,All,Unknown  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,23rd Dec 21
+83,Final Fantasy XIV: Shadowbringers,PC,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Jul 19  ,13th Jun 19
+84,Final Fantasy XIV: Shadowbringers,PS4,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Jul 19  ,13th Jun 19
+85,Guild Wars 2: End of Dragons,PC,Unknown  ,ArenaNet  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,20th Nov 22
+86,Heaven Forest - VR MMO,PC,Chubby Pixel  ,Fabio Ferrara  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Dec 16  ,08th Apr 19
+87,Last Oasis,PC,Donkey Crew  ,Donkey Crew  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Sep 19  ,14th Jun 19
+88,Magic: Legends,PC,Perfect World Entertainment  ,Cryptic Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,09th Jan 20
+89,New World,PC,Amazon Game Studios  ,Amazon Game Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Aug 21  ,16th Dec 19
+90,Phantasy Star Online 2: Cloud,NS,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Apr 18  ,06th Nov 18
+91,Phantasy Star Online 2: New Genesis,XOne,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,23rd Jul 20
+92,Phantasy Star Online 2: New Genesis,XS,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,23rd Jul 20
+93,Phantasy Star Online 2: New Genesis,NS,Unknown  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,23rd Jul 20
+94,Phantasy Star Online 2: New Genesis,PC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,23rd Jul 20
+95,Phantasy Star Online 2: New Genesis,PS4,Unknown  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,23rd Jul 20
+96,Starbase,PC,Frozenbyte  ,Frozenbyte  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 19  ,29th May 19
+97,The Day Before,PC,Unknown  ,FNTASTIC  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,16th Oct 21
+98,The Day Before,PS5,Unknown  ,FNTASTIC  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,16th Oct 21
+99,The Day Before,XS,Unknown  ,FNTASTIC  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,16th Oct 21
+100,The Elder Scrolls Online: Greymoor,XOne,Bethesda Softworks  ,ZeniMax Online Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Jun 20  ,16th Jan 20
+101,The Elder Scrolls Online: Greymoor,PC,Bethesda Softworks  ,ZeniMax Online Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th May 20  ,16th Jan 20
+102,The Elder Scrolls Online: Greymoor,PS4,Bethesda Softworks  ,ZeniMax Online Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Jun 20  ,16th Jan 20
+103,The Elder Scrolls Online: High Isle,XS,Unknown  ,ZeniMax Online Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,19th Sep 22
+104,The Elder Scrolls Online: High Isle,PC,Unknown  ,ZeniMax Online Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,19th Sep 22
+105,The Elder Scrolls Online: High Isle,PS4,Unknown  ,ZeniMax Online Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,19th Sep 22
+106,The Elder Scrolls Online: High Isle,PS5,Unknown  ,ZeniMax Online Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,19th Sep 22
+107,The Elder Scrolls Online: High Isle,XOne,Unknown  ,ZeniMax Online Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,19th Sep 22
+108,The Elder Scrolls Online: Tamriel Unlimited,PC,Bethesda Softworks  ,ZeniMax Online Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Jun 15  ,15th Sep 18
+109,Trove,PC,Unknown  ,Trion Worlds  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,26th Mar 19
+110,Warspear Online,PC,AIGRIND  ,AIGRIND  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Nov 17  ,22nd Apr 19
+111,World of Warcraft: Classic,PC,Blizzard Entertainment  ,Blizzard Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Aug 19  ,10th Jul 19
+112,Worlds Adrift,PC,Bossa Studios  ,Bossa Studios  ,N/A  ,N/A  ,8.6  ,N/A,N/A,N/A,N/A,N/A,N/A,24th May 17  ,03rd Apr 19

@@ -1,0 +1,280 @@
+position,game,console,publisher,developer,vgchart_score,critic_score,user_score,total_shipped,total_sales,na_sales,pal_sales,japan_sales,other_sales,release_date,last_update
+1,Just Dance,Series,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,70.00m,N/A,N/A,N/A,N/A,N/A,17th Nov 09  ,11th Feb 20
+2,Guitar Hero,Series,Activision  ,Harmonix  ,N/A  ,N/A  ,N/A  ,40.00m,N/A,N/A,N/A,N/A,N/A,08th Nov 05  ,05th Mar 20
+3,SingStar,Series,Sony Interactive Entertainment  ,London Studios  ,N/A  ,N/A  ,N/A  ,20.00m,N/A,N/A,N/A,N/A,N/A,21st May 04  ,18th Feb 20
+4,Rock Band,Series,MTV Games  ,Harmonix  ,N/A  ,N/A  ,N/A  ,13.20m,N/A,N/A,N/A,N/A,N/A,20th Nov 07  ,18th Apr 21
+5,Taiko no Tatsujin,Series,Namco  ,Bandai Namco Studios  ,N/A  ,N/A  ,N/A  ,11.29m,N/A,N/A,N/A,N/A,N/A,26th Oct 04  ,18th Feb 20
+6,Dance Dance Revolution,Series,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,11.00m,N/A,N/A,N/A,N/A,N/A,26th Sep 98  ,03rd Mar 20
+7,The Experience,Series,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,9.00m,N/A,N/A,N/A,N/A,N/A,06th Nov 10  ,10th Feb 20
+8,Guitar Hero III: Legends of Rock,All,Activision  ,Neversoft  ,N/A  ,N/A  ,N/A  ,8.00m,N/A,N/A,N/A,N/A,N/A,28th Oct 07  ,01st Nov 20
+9,Just Dance 3,All,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,7.00m,N/A,N/A,N/A,N/A,N/A,07th Oct 11  ,24th Oct 20
+10,Just Dance 4,Wii,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,6.89m,4.05m,2.21m,N/A,0.62m,09th Oct 12  ,31st Jan 18
+11,Hatsune Miku: Project,Series,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,6.35m,N/A,N/A,N/A,N/A,N/A,09th Apr 12  ,07th Feb 20
+12,Guitar Hero World Tour,All,Activision  ,Neversoft  ,N/A  ,N/A  ,N/A  ,5.10m,N/A,N/A,N/A,N/A,N/A,26th Oct 08  ,01st Nov 20
+13,Rhythm Heaven,Series,Nintendo  ,Nintendo  ,N/A  ,N/A  ,N/A  ,5.05m,N/A,N/A,N/A,N/A,N/A,05th Apr 09  ,18th Aug 20
+14,Guitar Hero II,All,RedOctane  ,Harmonix Music Systems  ,N/A  ,N/A  ,N/A  ,5.00m,N/A,N/A,N/A,N/A,N/A,07th Nov 06  ,01st Nov 20
+15,Just Dance 2015,All,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,4.00m,N/A,N/A,N/A,N/A,N/A,21st Oct 14  ,24th Oct 20
+16,Rock Band,All,MTV Games  ,Harmonix Music Systems  ,N/A  ,N/A  ,N/A  ,4.00m,N/A,N/A,N/A,N/A,N/A,20th Nov 07  ,18th Apr 21
+17,Rocksmith,Series,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,4.00m,N/A,N/A,N/A,N/A,N/A,18th Oct 11  ,13th Jun 21
+18,Just Dance 2014,Wii,Ubisoft  ,Ubisoft Paris  ,N/A  ,7.4  ,N/A  ,N/A,3.89m,1.91m,1.66m,N/A,0.33m,08th Oct 13  ,08th Mar 18
+19,Guitar Hero: Aerosmith,All,Activision  ,Neversoft  ,N/A  ,N/A  ,N/A  ,3.60m,N/A,N/A,N/A,N/A,N/A,29th Jun 08  ,01st Nov 20
+20,Rhythm Heaven,DS,Nintendo  ,Nintendo SPD Group No.1  ,8.9  ,8.5  ,N/A  ,3.04m,N/A,N/A,N/A,N/A,N/A,05th Apr 09  ,31st May 18
+21,Michael Jackson: The Experience,All,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,3.00m,N/A,N/A,N/A,N/A,N/A,06th Nov 10  ,24th Oct 20
+22,Wii Music,Wii,Nintendo  ,Nintendo EAD  ,N/A  ,5.6  ,N/A  ,2.86m,N/A,N/A,N/A,N/A,N/A,20th Oct 08  ,31st May 18
+23,Dance Central,X360,MTV Games  ,Harmonix Music Systems  ,N/A  ,8.4  ,N/A  ,2.50m,N/A,N/A,N/A,N/A,N/A,04th Nov 10  ,10th Aug 18
+24,Just Dance 2015,Wii,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,2.09m,1.00m,0.91m,N/A,0.18m,21st Oct 14  ,03rd Apr 18
+25,Dance Central 2,X360,Microsoft  ,Harmonix Music Systems  ,7.2  ,8.6  ,N/A  ,N/A,2.04m,1.45m,0.41m,0.01m,0.16m,25th Oct 11  ,10th Aug 18
+26,Beat Saber,All,Beat Games  ,Beat Games  ,N/A  ,N/A  ,N/A  ,2.00m,N/A,N/A,N/A,N/A,N/A,21st May 19  ,10th Oct 20
+27,Rock Band 2,All,MTV Games  ,Harmonix Music Systems  ,N/A  ,N/A  ,N/A  ,2.00m,N/A,N/A,N/A,N/A,N/A,14th Sep 08  ,18th Apr 21
+28,The Beatles: Rock Band,All,MTV Games  ,Harmonix Music Systems  ,N/A  ,N/A  ,N/A  ,2.00m,N/A,N/A,N/A,N/A,N/A,09th Sep 09  ,18th Apr 21
+29,Taiko no Tatsujin: Drum 'n' Fun!,NS,Bandai Namco Games  ,Bandai Namco Games  ,N/A  ,7.5  ,N/A  ,1.89m,N/A,N/A,N/A,N/A,N/A,02nd Nov 18  ,25th Aug 18
+30,Guitar Hero: Metallica,All,Activision  ,Neversoft  ,N/A  ,N/A  ,N/A  ,1.50m,N/A,N/A,N/A,N/A,N/A,29th Mar 09  ,01st Nov 20
+31,Guitar Hero Live,PS4,Activision  ,FreeStyleGames  ,N/A  ,N/A  ,N/A  ,N/A,1.21m,0.52m,0.49m,N/A,0.20m,20th Oct 15  ,15th Mar 18
+32,Just Dance 4,X360,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,1.21m,0.90m,0.19m,N/A,0.12m,09th Oct 12  ,31st Jan 18
+33,DJ Hero,All,Activision  ,FreeStyle Games  ,N/A  ,N/A  ,N/A  ,1.20m,N/A,N/A,N/A,N/A,N/A,27th Aug 09  ,01st Nov 20
+34,Rock Band 3,All,MTV Games  ,Harmonix Music Systems  ,N/A  ,N/A  ,N/A  ,1.20m,N/A,N/A,N/A,N/A,N/A,26th Oct 10  ,18th Apr 21
+35,Just Dance 2016,Wii,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,1.11m,0.43m,0.58m,N/A,0.09m,20th Oct 15  ,05th Apr 18
+36,Rocksmith 2014,PS3,Ubisoft  ,Ubisoft San Francisco  ,N/A  ,9.1  ,N/A  ,N/A,1.05m,0.56m,0.26m,0.05m,0.17m,22nd Oct 13  ,08th Mar 18
+37,Just Dance 2014,X360,Ubisoft  ,Ubisoft Paris  ,N/A  ,7.6  ,N/A  ,N/A,1.03m,0.75m,0.18m,N/A,0.10m,08th Oct 13  ,08th Mar 18
+38,Rhythm Heaven Megamix,3DS,Nintendo  ,Nintendo  ,N/A  ,8.8  ,N/A  ,1.02m,N/A,N/A,N/A,N/A,N/A,15th Jun 16  ,31st May 18
+39,Beatmania,Series,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,1.00m,N/A,N/A,N/A,N/A,N/A,31st Dec 97  ,12th Jan 21
+40,Guitar Hero 5,All,Activision  ,Neversoft  ,N/A  ,N/A  ,N/A  ,1.00m,N/A,N/A,N/A,N/A,N/A,01st Sep 09  ,01st Nov 20
+41,Just Dance 2017,Wii,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,1.00m,0.40m,0.51m,N/A,0.08m,25th Oct 16  ,06th Apr 18
+42,Rocksmith 2014,X360,Ubisoft  ,Ubisoft San Francisco  ,N/A  ,8.4  ,N/A  ,N/A,0.99m,0.73m,0.16m,0.00m,0.10m,22nd Oct 13  ,08th Mar 18
+43,Rhythm Heaven Fever,Wii,Nintendo  ,Nintendo / TNX  ,N/A  ,N/A  ,N/A  ,N/A,0.89m,0.11m,N/A,0.77m,0.01m,13th Feb 12  ,31st May 18
+44,Dance Central 3,X360,Microsoft  ,Harmonix Music Systems  ,N/A  ,N/A  ,N/A  ,N/A,0.83m,0.57m,0.19m,N/A,0.07m,16th Oct 12  ,10th Aug 18
+45,Guitar Hero Live,XOne,Activision  ,FreeStyleGames  ,N/A  ,N/A  ,N/A  ,N/A,0.83m,0.52m,0.23m,N/A,0.08m,20th Oct 15  ,15th Mar 18
+46,Just Dance 2019,NS,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.76m,0.43m,0.26m,N/A,0.07m,23rd Oct 18  ,28th Sep 18
+47,Just Dance 2018,NS,Ubisoft  ,Ubisoft Paris  ,N/A  ,8.0  ,N/A  ,N/A,0.76m,0.30m,0.40m,N/A,0.06m,24th Oct 17  ,06th Apr 18
+48,Rock Band 4,XOne,Harmonix Music Systems  ,Harmonix Music Systems  ,N/A  ,N/A  ,N/A  ,N/A,0.75m,0.62m,0.05m,N/A,0.08m,06th Oct 15  ,23rd May 18
+49,Just Dance 2015,WiiU,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.75m,0.40m,0.29m,N/A,0.07m,21st Oct 14  ,03rd Apr 18
+50,Rocksmith 2014,PC,Ubisoft  ,Ubisoft San Francisco  ,N/A  ,9.0  ,N/A  ,N/A,0.70m,0.39m,0.24m,N/A,0.06m,04th Oct 16  ,08th Mar 18
+51,Rocksmith 2014,PS4,Ubisoft  ,Ubisoft San Francisco  ,N/A  ,N/A  ,N/A  ,N/A,0.67m,0.38m,0.17m,N/A,0.12m,04th Oct 16  ,08th Mar 18
+52,Taiko no Tatsujin Wii: Super Deluxe Edition,Wii,Namco Bandai Games  ,Bandai Namco Games  ,N/A  ,N/A  ,N/A  ,N/A,0.66m,N/A,N/A,0.66m,N/A,29th Nov 12  ,21st Mar 18
+53,Just Dance 2014,WiiU,Ubisoft  ,Ubisoft Paris  ,N/A  ,7.5  ,N/A  ,N/A,0.64m,0.34m,0.25m,N/A,0.06m,08th Oct 13  ,08th Mar 18
+54,Just Dance 2015,X360,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.61m,0.42m,0.13m,N/A,0.06m,21st Oct 14  ,03rd Apr 18
+55,Just Dance 2016,WiiU,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.60m,0.29m,0.25m,N/A,0.05m,20th Oct 15  ,05th Apr 18
+56,Rock Band 4,PS4,Harmonix Music Systems  ,Harmonix Music Systems  ,N/A  ,N/A  ,N/A  ,N/A,0.57m,0.41m,0.06m,N/A,0.10m,06th Oct 15  ,23rd May 18
+57,Hatsune Miku: Project Diva Future Tone,PS4,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,0.55m,N/A,N/A,N/A,N/A,N/A,10th Jan 17  ,21st Sep 18
+58,Lips: Number One Hits,X360,Microsoft Game Studios  ,iNiS  ,N/A  ,N/A  ,N/A  ,N/A,0.55m,0.15m,0.34m,N/A,0.06m,20th Oct 09  ,10th Oct 18
+59,Just Dance 2015,XOne,Ubisoft  ,Ubisoft Paris  ,N/A  ,8.1  ,N/A  ,N/A,0.54m,0.36m,0.13m,N/A,0.05m,21st Oct 14  ,03rd Apr 18
+60,Child of Eden,All,Ubisoft  ,Q Entertainment  ,N/A  ,N/A  ,N/A  ,0.50m,N/A,N/A,N/A,N/A,N/A,14th Jun 11  ,05th Jul 21
+61,Just Dance 2014,XOne,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.48m,0.31m,0.12m,N/A,0.04m,22nd Nov 13  ,08th Mar 18
+62,Just Dance 2014,PS4,Ubisoft  ,Ubisoft Paris  ,N/A  ,7.5  ,N/A  ,N/A,0.47m,0.21m,0.18m,N/A,0.08m,15th Nov 13  ,08th Mar 18
+63,Just Dance 4,PS3,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,0.45m,0.26m,0.11m,N/A,0.08m,09th Oct 12  ,31st Jan 18
+64,Just Dance 2017,WiiU,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.43m,0.19m,0.21m,N/A,0.04m,25th Oct 16  ,06th Apr 18
+65,Rocksmith 2014,XOne,Ubisoft  ,Ubisoft San Francisco  ,N/A  ,9.0  ,N/A  ,N/A,0.43m,0.31m,0.08m,N/A,0.04m,04th Oct 16  ,08th Mar 18
+66,Just Dance 2015,PS4,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.41m,0.21m,0.13m,N/A,0.07m,21st Oct 14  ,03rd Apr 18
+67,Theatrhythm Final Fantasy: Curtain Call,3DS,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,0.41m,0.16m,0.08m,0.15m,0.02m,16th Sep 14  ,29th Jan 19
+68,Just Dance 2018,Wii,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.39m,0.14m,0.22m,N/A,0.03m,24th Oct 17  ,06th Apr 18
+69,Just Dance 2016,PS4,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.39m,0.19m,0.13m,N/A,0.07m,20th Oct 15  ,05th Apr 18
+70,Just Dance 2014,PS3,Ubisoft  ,Ubisoft Paris  ,N/A  ,7.8  ,N/A  ,N/A,0.39m,0.17m,0.15m,N/A,0.07m,08th Oct 13  ,08th Mar 18
+71,Hatsune Miku: Project DIVA F,All,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,0.39m,N/A,N/A,N/A,N/A,N/A,04th Mar 14  ,05th Jan 21
+72,Just Dance 4,WiiU,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,0.38m,0.21m,0.14m,N/A,0.03m,18th Nov 12  ,31st Jan 18
+73,Just Dance 2016,XOne,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.38m,0.30m,0.04m,N/A,0.04m,20th Oct 15  ,05th Apr 18
+74,Persona 4: Dancing All Night,PSV,Atlus  ,Dingo Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.38m,0.12m,0.04m,0.16m,0.05m,29th Sep 15  ,31st May 18
+75,Guitar Hero Live,PS3,Activision  ,FreeStyleGames  ,N/A  ,N/A  ,N/A  ,N/A,0.38m,0.16m,0.16m,N/A,0.06m,20th Oct 15  ,15th Mar 18
+76,Just Dance 2016,X360,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.36m,0.26m,0.06m,N/A,0.04m,20th Oct 15  ,05th Apr 18
+77,Just Dance 2017,XOne,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.34m,0.25m,0.05m,N/A,0.03m,25th Oct 16  ,06th Apr 18
+78,Guitar Hero Live,X360,Activision  ,FreeStyleGames  ,N/A  ,N/A  ,N/A  ,N/A,0.34m,0.20m,0.11m,N/A,0.03m,20th Oct 15  ,15th Mar 18
+79,Taiko Drum Master: Don and Katsu's Space-Time Great Adventure,3DS,Namco Bandai Games  ,Namco Bandai Games  ,N/A  ,N/A  ,N/A  ,N/A,0.33m,N/A,N/A,0.33m,N/A,26th Jun 14  ,23rd Jan 18
+80,Audiosurf 2,PC,Unknown  ,Dylan Fitterer  ,N/A  ,N/A  ,N/A  ,0.32m,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Feb 19
+81,Hatsune Miku: Project Diva F 2nd,PSV,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,0.32m,0.08m,0.05m,0.16m,0.04m,18th Nov 14  ,24th Oct 18
+82,Rhythm Tengoku,GBA,Nintendo  ,Nintendo SPD Group No.1  ,N/A  ,N/A  ,N/A  ,N/A,0.30m,N/A,N/A,0.30m,0.01m,03rd Aug 06  ,31st May 18
+83,Just Dance 2018,PS4,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.30m,0.10m,0.15m,N/A,0.05m,24th Oct 17  ,06th Apr 18
+84,Just Dance 2017,NS,Ubisoft  ,Ubisoft Paris  ,N/A  ,6.5  ,N/A  ,N/A,0.29m,0.07m,0.20m,N/A,0.02m,03rd Mar 17  ,06th Apr 18
+85,Just Dance Wii 2,Wii,Nintendo  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,0.29m,N/A,N/A,0.29m,N/A,26th Jul 12  ,30th Aug 18
+86,Next Hatsune Miku: Project Diva,PS3,Sega  ,Sega  ,8.1  ,N/A  ,N/A  ,N/A,0.28m,0.08m,N/A,0.19m,0.02m,27th Aug 13  ,19th Oct 18
+87,Just Dance 2015,PS3,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.28m,0.15m,0.08m,N/A,0.05m,21st Oct 14  ,03rd Apr 18
+88,Just Dance 2017,X360,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.28m,0.19m,0.07m,N/A,0.03m,25th Oct 16  ,06th Apr 18
+89,Guitar Hero Live,WiiU,Activision  ,FreeStyleGames  ,N/A  ,N/A  ,N/A  ,N/A,0.27m,0.18m,0.06m,N/A,0.03m,20th Oct 15  ,15th Mar 18
+90,Hatsune Miku: Project Diva F 2nd,PS3,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,0.27m,0.10m,0.03m,0.10m,0.03m,18th Nov 14  ,24th Oct 18
+91,Guitar Hero: Van Halen,All,Activision  ,Underground Development  ,N/A  ,N/A  ,N/A  ,0.25m,N/A,N/A,N/A,N/A,N/A,22nd Dec 09  ,01st Nov 20
+92,We Sing Pop!,Wii,Nordic Games  ,Le Cortex  ,N/A  ,N/A  ,N/A  ,N/A,0.25m,0.05m,0.18m,N/A,0.02m,14th Dec 12  ,29th Oct 18
+93,Just Dance 2019,Wii,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.24m,0.10m,0.12m,N/A,0.02m,23rd Oct 18  ,28th Sep 18
+94,Hatsune Miku -Project DIVA- f,PSV,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,0.23m,N/A,N/A,N/A,N/A,N/A,04th Mar 14  ,11th Jan 19
+95,Hatsune Miku: Project Mirai 2,3DS,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,0.23m,N/A,N/A,0.23m,N/A,26th May 15  ,29th Oct 18
+96,SingStar Celebration,PS4,Sony Interactive Entertainment  ,SIE London Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.23m,0.04m,0.15m,N/A,0.03m,24th Oct 17  ,07th Apr 18
+97,Just Dance 2016,PS3,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.12m,0.06m,N/A,0.04m,20th Oct 15  ,05th Apr 18
+98,Just Dance 2018,XOne,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.21m,0.15m,0.04m,N/A,0.02m,24th Oct 17  ,06th Apr 18
+99,Just Dance: Greatest Hits,Wii,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.20m,0.14m,0.04m,N/A,0.02m,26th Jul 12  ,03rd Nov 18
+100,Taiko no Tatsujin: Wii U Version!,WiiU,Namco Bandai Games  ,Bandai Namco Games  ,N/A  ,N/A  ,N/A  ,N/A,0.19m,N/A,N/A,0.19m,N/A,21st Nov 13  ,18th Sep 18
+101,Singstar: Ultimate Party,PS4,Sony Computer Entertainment  ,London Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.19m,N/A,0.16m,N/A,0.03m,24th Oct 14  ,24th Sep 18
+102,Fantasia: Music Evolved,XOne,Disney Interactive Studios  ,Harmonix Music Systems  ,N/A  ,N/A  ,N/A  ,N/A,0.19m,0.14m,0.03m,N/A,0.02m,21st Oct 14  ,24th Nov 18
+103,Daigasso! Band Brothers P,3DS,Nintendo  ,Nintendo  ,N/A  ,N/A  ,N/A  ,N/A,0.19m,N/A,N/A,0.19m,N/A,15th Nov 13  ,30th Aug 18
+104,Hatsune Miku: Project Diva X,PSV,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,0.18m,0.05m,N/A,0.12m,0.02m,30th Aug 16  ,30th Jun 18
+105,Zumba Fitness Rush,X360,Majesco Entertainment  ,Majesco Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.18m,0.00m,0.16m,N/A,0.02m,14th Feb 12  ,04th Nov 18
+106,Country Dance: All Stars,X360,GameMill Entertainment  ,GameMill Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.18m,0.16m,N/A,N/A,0.02m,27th Mar 12  ,04th Nov 18
+107,The Idolm@ster: Shiny Festa - Honey Sound / Funky Note / Groovy Tune,PSP,Namco Bandai Games  ,Bandai Namco Games  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,N/A,N/A,0.17m,N/A,25th Oct 12  ,04th Nov 18
+108,Just Dance 2019,PS4,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,0.11m,0.03m,N/A,0.03m,23rd Oct 18  ,28th Sep 18
+109,Just Dance 2018,WiiU,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,0.07m,0.09m,N/A,0.01m,24th Oct 17  ,06th Apr 18
+110,Theatrhythm Dragon Quest,3DS,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,0.16m,N/A,N/A,0.16m,N/A,26th Mar 15  ,30th Jun 18
+111,Just Dance: Disney Party,X360,Ubisoft  ,Land Ho!  ,N/A  ,N/A  ,N/A  ,N/A,0.16m,0.13m,0.02m,N/A,0.02m,23rd Oct 12  ,04th Nov 18
+112,Just Dance 2019,XOne,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.13m,0.01m,N/A,0.02m,23rd Oct 18  ,28th Sep 18
+113,Before the Echo,PC,Unknown  ,Iridium Studios  ,N/A  ,N/A  ,N/A  ,0.15m,N/A,N/A,N/A,N/A,N/A,N/A  ,24th Mar 19
+114,Hatsune Miku: Project Diva MegaMix,NS,Sega  ,Sega  ,7.0  ,N/A  ,N/A  ,0.15m,N/A,N/A,N/A,N/A,N/A,15th May 20  ,24th Jan 20
+115,Symphony,PC,Unknown  ,Empty Clip Studios  ,N/A  ,N/A  ,N/A  ,0.15m,N/A,N/A,N/A,N/A,N/A,N/A  ,24th Mar 19
+116,Just Dance: Disney Party,Wii,Ubisoft  ,Land Ho!  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,0.03m,0.11m,N/A,0.01m,23rd Oct 12  ,04th Nov 18
+117,Taiko no Tatsujin: Don Don! Mystery Adventure,3DS,Namco Bandai Games  ,Namco Bandai Games  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,N/A,N/A,0.14m,N/A,16th Jun 16  ,02nd Jul 18
+118,Rocksmith 2014 Edition Remastered,PS4,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,0.11m,N/A,N/A,0.03m,04th Oct 16  ,19th Jun 18
+119,Lips: I Love The 80s,X360,Microsoft Game Studios  ,iNiS  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,N/A,0.12m,N/A,0.02m,02nd Apr 10  ,02nd Nov 18
+120,Hatsune Miku: Project Diva X,PS4,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,0.08m,N/A,0.04m,0.02m,30th Aug 16  ,30th Jun 18
+121,Just Dance 2017,PS3,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,0.05m,0.06m,N/A,0.02m,25th Oct 16  ,06th Apr 18
+122,Rocksmith 2014 Edition Remastered,XOne,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,0.12m,N/A,N/A,0.01m,04th Oct 16  ,19th Jun 18
+123,Persona Dancing: Endless Night Collection,PS4,Atlus  ,Atlus  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,0.07m,N/A,0.04m,0.02m,04th Dec 18  ,12th Aug 18
+124,Everybody Dance,PS3,Sony Computer Entertainment  ,SCEE London Studio  ,N/A  ,6.5  ,N/A  ,N/A,0.13m,0.11m,N/A,N/A,0.02m,18th Oct 11  ,14th Sep 18
+125,PriPara Mezase! Idol Grand Prix No.1!,3DS,Takara Tomy   ,Takara Tomy  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,N/A,N/A,0.13m,N/A,22nd Oct 15  ,03rd Jul 18
+126,The Voice,WiiU,Activision  ,Zoe Mode  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.11m,0.00m,N/A,0.01m,21st Oct 14  ,16th Mar 18
+127,Love Live! School Idol Paradise,PSV,Kadokawa Games  ,Dingo Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,N/A,N/A,0.12m,N/A,28th Aug 14  ,15th Nov 18
+128,Rush Bros.,PC,Digital Tribe Games  ,XYLA Entertainment  ,5.5  ,N/A  ,N/A  ,0.12m,N/A,N/A,N/A,N/A,N/A,24th May 13  ,16th Apr 19
+129,Uta no * Prince-Sama: All Star,PSP,Broccoli  ,Nippon Ichi Software  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,N/A,N/A,0.12m,N/A,07th Mar 13  ,15th Nov 18
+130,Intralism,PC,KHB-Soft  ,KHB-Soft  ,N/A  ,N/A  ,N/A  ,0.11m,N/A,N/A,N/A,N/A,N/A,04th Nov 16  ,06th Apr 19
+131,Taiko no Tatsujin: V Version,PSV,Namco Bandai Games  ,Bandai Namco Games  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,N/A,N/A,0.11m,N/A,09th Jul 15  ,04th Jul 18
+132,The Voice,X360,Activision  ,Zoe Mode  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,0.10m,N/A,N/A,0.01m,21st Oct 14  ,16th Mar 18
+133,Just Dance 2019,WiiU,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.06m,0.03m,N/A,0.01m,23rd Oct 18  ,28th Sep 18
+134,The Idolmaster: Starlit Season,All,Bandai Namco  ,"ILCA, Inc.  ",N/A  ,N/A  ,N/A  ,0.10m,N/A,N/A,N/A,N/A,N/A,14th Oct 21  ,20th Oct 21
+135,XPLORA1: Peter Gabriel's Secret World,All,MacPlay  ,Real World Media  ,N/A  ,N/A  ,N/A  ,0.10m,N/A,N/A,N/A,N/A,N/A,21st Dec 93  ,28th Sep 22
+136,Just Dance 2018,X360,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.06m,0.03m,N/A,0.01m,24th Oct 17  ,06th Apr 18
+137,Fantasia: Music Evolved,X360,Disney Interactive Studios  ,Harmonix Music Systems  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.08m,0.01m,N/A,0.01m,21st Oct 14  ,24th Nov 18
+138,Let's Sing 2016,PS4,Ravenscourt  ,Voxler  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.08m,N/A,N/A,0.02m,23rd Oct 15  ,07th Apr 18
+139,Taiko no Tatsujin: Drum Session!,PS4,Namco Bandai Games  ,Namco Bandai Games  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,N/A,N/A,0.09m,N/A,26th Oct 17  ,13th Sep 18
+140,Singstar: Ultimate Party,PS3,Sony Computer Entertainment Europe  ,London Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,N/A,0.08m,N/A,0.01m,24th Oct 14  ,24th Sep 18
+141,Uta no?Prince-sama? MUSIC 2,PSP,Broccoli  ,Nippon Ichi Software  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,N/A,N/A,0.09m,N/A,05th Sep 13  ,01st Dec 18
+142,Just Dance: Disney Party 2,WiiU,Ubisoft  ,Ubisoft San Francisco  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,0.07m,0.01m,N/A,0.01m,20th Oct 15  ,07th Apr 18
+143,Just Dance: Disney Party 2,XOne,Ubisoft  ,Ubisoft San Francisco  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.01m,N/A,0.01m,20th Oct 15  ,07th Apr 18
+144,IA/VT Colorful,PSV,Marvelous Entertainment  ,Marvelous  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,N/A,N/A,0.08m,N/A,30th Jul 15  ,03rd Dec 18
+145,Taiko no Tatsujin: Atsumete Tomodachi Daisakusen!,WiiU,Namco Bandai Games  ,Bandai Namco Games  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,N/A,N/A,0.08m,N/A,26th Nov 15  ,08th Apr 18
+146,Just Dance: Disney Party 2,X360,Ubisoft  ,Ubisoft San Francisco  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.06m,0.01m,N/A,0.01m,20th Oct 15  ,07th Apr 18
+147,Just Dance 2019,X360,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.05m,0.01m,N/A,0.01m,23rd Oct 18  ,28th Sep 18
+148,Just Dance 2018,PS3,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.02m,0.03m,N/A,0.01m,24th Oct 17  ,06th Apr 18
+149,Miracle Girls Festival,PSV,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,N/A,N/A,0.07m,N/A,17th Dec 15  ,21st Sep 18
+150,Zumba Fitness Core,Wii,Majesco Entertainment  ,Zoe Mode  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,N/A,0.06m,N/A,0.00m,16th Oct 12  ,28th Dec 18
+151,The Voice,PS3,Activision  ,Zoe Mode  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.06m,N/A,N/A,0.01m,21st Oct 14  ,16th Mar 18
+152,Persona 5: Dancing in Starlight,PS4,Atlus  ,Atlus  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.03m,N/A,0.03m,0.01m,04th Dec 18  ,13th Aug 18
+153,Uta no Prince-Sama: Music 3,PSV,Broccoli  ,Nippon Ichi Software  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,N/A,N/A,0.06m,N/A,28th Jan 16  ,22nd Sep 18
+154,Pretty Cure All Stars Everyone Gather? Let's Dance!,Wii,Namco Bandai Games  ,Bandai Namco Games  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,N/A,N/A,0.05m,N/A,28th Mar 13  ,03rd Jan 19
+155,Zumba Fitness Core,X360,Majesco Entertainment  ,Zoe Mode  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,N/A,0.05m,N/A,0.00m,16th Oct 12  ,28th Dec 18
+156,VOEZ,NS,PM Studios  ,Rayark Inc.  ,N/A  ,8.5  ,N/A  ,0.05m,N/A,N/A,N/A,N/A,N/A,14th Aug 18  ,28th Jan 18
+157,Just Sing,XOne,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,N/A,N/A,0.01m,06th Sep 16  ,27th Jun 18
+158,The Idolm@ster: Must Songs - Red Board / Blue Board,PSV,Namco Bandai Games  ,Bandai Namco Games  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,N/A,10th Dec 15  ,22nd Sep 18
+159,YoKai Watch Dance: Just Dance Special Version,WiiU,Level 5  ,Level 5  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,N/A,05th Dec 15  ,09th Apr 18
+160,Just Sing,PS4,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,N/A,N/A,0.01m,06th Sep 16  ,27th Jun 18
+161,Persona 3: Dancing in Moonlight,PS4,Atlus  ,Atlus  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.02m,N/A,0.01m,0.01m,04th Dec 18  ,13th Aug 18
+162,Let's Sing 2019,NS,Ravenscourt  ,Ravenscourt  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,0.03m,N/A,0.00m,26th Oct 18  ,02nd Dec 18
+163,K-On! After School Live!! HD Ver.,PS3,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,21st Jun 12  ,26th Apr 19
+164,SUPERBEAT: XONiC,NS,PM Studios  ,Nurijoy  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.03m,N/A,N/A,0.00m,21st Nov 17  ,20th Sep 18
+165,IDOLiSH7 Twelve Fantasia!,PSV,Bandai Namco Entertainment  ,Bandai Namco Games  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,15th Feb 18  ,26th Feb 18
+166,Let's Sing 2019,PS4,Ravenscourt  ,Ravenscourt  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,0.03m,N/A,0.00m,26th Oct 18  ,02nd Dec 18
+167,Megpoid the Music#,PSP,Asgard  ,ParaPhray  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,28th Mar 13  ,27th Apr 19
+168,Let's Sing 2018,NS,Koch Media  ,Ravenscourt  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,0.03m,N/A,0.00m,24th Nov 17  ,10th Jan 18
+169,Senran Kagura: Bon Appétit!,PSV,Xseed Games  ,Meteorise  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,11th Nov 14  ,14th Oct 18
+170,We Sing (2016),PS4,THQ Nordic  ,THQ Nordic  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.02m,N/A,N/A,0.01m,01st Dec 16  ,07th Sep 18
+171,SUPERBEAT: XONiC,PS4,PM Studios  ,Nurijoy  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,06th Jun 17  ,20th Sep 18
+172,PaRappa the Rapper Remastered,PS4,Sony Interactive Entertainment  ,SIE Japan Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,04th Apr 17  ,24th Sep 18
+173,Uta Kumi 575,PSV,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,23rd Jan 14  ,03rd May 19
+174,CV Casting Voice,PS3,Namco Bandai Games  ,Bandai Namco Games  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,19th Jun 14  ,04th May 19
+175,Patapon Remastered,PS4,Sony Interactive Entertainment  ,SIE Japan Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,01st Aug 17  ,24th Sep 18
+176,Persona 5: Dancing in Starlight,PSV,Atlus  ,Atlus  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,04th Dec 18  ,13th Aug 18
+177,Gal Metal!,NS,Xseed Games  ,DMM Games  ,N/A  ,7.0  ,N/A  ,N/A,0.02m,0.01m,N/A,0.01m,0.00m,30th Oct 18  ,18th Mar 19
+178,Persona Dancing: Deluxe Twin Plus,PSV,Atlus  ,Atlus  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,24th May 18  ,06th Jun 18
+179,Musynx,NS,PM Studios  ,PM Studios  ,7.0  ,7.5  ,N/A  ,N/A,0.01m,0.01m,N/A,N/A,0.00m,19th Jun 18  ,07th Jan 18
+180,Let's Sing 2019,Wii,Ravenscourt  ,Ravenscourt  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,0.01m,N/A,0.00m,26th Oct 18  ,02nd Dec 18
+181,Soni Pro,3DS,imageepoch Inc.  ,imageepoch Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,31st Jul 14  ,07th May 19
+182,Persona 3: Dancing in Moonlight,PSV,Atlus  ,Atlus  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,N/A,0.01m,N/A,04th Dec 18  ,13th Aug 18
+183,Just Dance: Disney Party 2,Wii,Ubisoft  ,Ubisoft San Francisco  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,0.01m,N/A,0.00m,20th Oct 15  ,07th Apr 18
+184,We Sing 80s,Wii,Nordic Games  ,Le Cortex  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,0.00m,N/A,0.00m,08th Feb 13  ,07th Apr 18
+185,Rhythm Heaven Fever,Wii,Nintendo  ,Nintendo  ,7.9  ,N/A  ,N/A  ,N/A,0.00m,N/A,0.00m,N/A,0.00m,13th Feb 12  ,01st May 19
+186,Deemo: The Last Recital,NS,PM Studios  ,Rayark Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,N/A,0.00m,N/A,29th Jan 19  ,07th Nov 18
+187,Kylie Sing and Dance,Wii,Koch Media  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,0.00m,N/A,0.00m,07th Dec 12  ,07th Apr 18
+188,The Hip Hop Dance Experience,Wii,Ubisoft  ,iNiS  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,0.00m,N/A,0.00m,13th Nov 12  ,02nd May 19
+189,SUPERBEAT: XONiC,PSV,PM Studios  ,Nurijoy  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,0.00m,N/A,0.00m,10th Nov 15  ,20th Sep 18
+190,Andrew Lloyd Webber Musicals: Sing and Dance,Wii,Koch Media  ,Tubby Games  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,0.00m,N/A,0.00m,09th Nov 12  ,08th May 19
+191,Disney Violetta: Rhythm & Music,3DS,Disney Interactive Studios  ,Little Orbit  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,0.00m,N/A,0.00m,26th Sep 14  ,07th Apr 18
+192,The Voice,Wii,Activision  ,Zoe Mode  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,0.00m,N/A,0.00m,21st Oct 14  ,16th Mar 18
+193,Crypt of the NecroDancer,OSX,Klei Entertainment  ,Brace Yourself Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Apr 15  ,06th Aug 18
+194,Crypt of the NecroDancer,Linux,Klei Entertainment  ,Brace Yourself Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Apr 15  ,06th Aug 18
+195,Crypt of the NecroDancer,PC,Klei Entertainment  ,Brace Yourself Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Apr 15  ,06th Aug 18
+196,Disney Violetta: Rhythm & Music,Wii,Disney Interactive Studios  ,Little Orbit  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Oct 14  ,07th Apr 18
+197,Disney Violetta: Rhythm & Music,DS,Disney Interactive Studios  ,Little Orbit  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Oct 14  ,07th Apr 18
+198,HarmoKnight,3DS,Nintendo  ,Game Freak  ,5.8  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Mar 13  ,31st Aug 18
+199,Hatsune Miku: VR Future Live,PS4,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Oct 16  ,08th Apr 18
+200,Just Dance 2017,PC,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Oct 16  ,06th Apr 18
+201,Just Dance: Greatest Hits,X360,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jul 12  ,03rd Nov 18
+202,Let's Sing 2016,Wii,Ravenscourt  ,Voxler  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Oct 15  ,07th Apr 18
+203,Rocksmith 2014,OSX,Ubisoft  ,Ubisoft San Francisco  ,N/A  ,9.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Oct 13  ,08th Mar 18
+204,Rocksmith 2014 Edition Remastered,PC,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Oct 16  ,19th Jun 18
+205,The Hip Hop Dance Experience,X360,Ubisoft  ,iNiS  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Nov 12  ,02nd May 19
+206,We Sing (2016),XOne,THQ Nordic  ,THQ Nordic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 16  ,07th Sep 18
+207,Wii Karaoke U by JOYSOUND,WiiU,Nintendo  ,TOSE  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Dec 12  ,28th Aug 18
+208,ZillerNet,XB,Microsoft  ,Studio9  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Jun 05  ,25th Sep 18
+209,AVICII Invector,NS,Wired Productions  ,Wired Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Sep 20  ,17th Aug 20
+210,AVICII Invector,PC,Wired Productions  ,Wired Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Dec 19  ,17th Aug 20
+211,AVICII Invector,PS4,Wired Productions  ,Wired Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Dec 19  ,17th Aug 20
+212,AVICII Invector,XOne,Wired Productions  ,Wired Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Dec 19  ,17th Aug 20
+213,Beat Saber,PS4,Beat Games  ,Beat Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Nov 18  ,08th Nov 18
+214,Beat Saber,OR,Beat Games  ,Beat Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st May 18  ,15th Mar 22
+215,Cadence of Hyrule - Crypt of the NecroDancer feat. The Legend of Zelda,NS,Nintendo  ,Brace Yourself Games  ,N/A  ,9.5  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Jun 19  ,12th Jun 19
+216,Crypt of the NecroDancer,PS4,Brace Yourself Games  ,Brace Yourself Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Feb 16  ,06th Aug 18
+217,Crypt of the NecroDancer,PSV,Brace Yourself Games  ,Brace Yourself Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Feb 16  ,06th Aug 18
+218,Crypt of the NecroDancer,XOne,Brace Yourself Games  ,Brace Yourself Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Feb 17  ,06th Aug 18
+219,Crypt of the NecroDancer: Nintendo Switch Edition,NS,Brace Yourself Games  ,Brace Yourself Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Feb 18  ,23rd Nov 18
+220,Cytus Alpha,NS,PM Studios  ,Rayark Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Apr 19  ,22nd Mar 19
+221,Dance Central Spotlight,XOne,Microsoft Studios  ,Harmonix Music Systems  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Sep 14  ,16th Nov 18
+222,Dark Witch Music Episode: Rudymical,NS,Flyhigh Works  ,Flyhigh Works  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th May 17  ,11th Mar 18
+223,EAT BEAT DEADSPIKE-san,NS,Arc System Works  ,Arc System Works  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Mar 18  ,23rd Mar 18
+224,Frederic: The Resurrection of Music,NS,Forever Entertainment S.A.  ,Forever Entertainment S.A.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Dec 17  ,04th Feb 18
+225,Fuser,NS,NCSoft  ,Harmonix Music Systems  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Nov 20  ,02nd Jun 20
+226,Fuser,PC,NCSoft  ,Harmonix Music Systems  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Nov 20  ,02nd Jun 20
+227,Fuser,PS4,NCSoft  ,Harmonix Music Systems  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Nov 20  ,02nd Jun 20
+228,Fuser,XOne,NCSoft  ,Harmonix Music Systems  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Nov 20  ,02nd Jun 20
+229,Hiragana Pixel Party,NS,Springloaded  ,Springloaded  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Dec 17  ,12th Mar 18
+230,Just Dance 2020,NS,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Nov 19  ,25th Jul 19
+231,Just Dance 2020,PS4,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Nov 19  ,25th Jul 19
+232,Just Dance 2020,XOne,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Nov 19  ,25th Jul 19
+233,Just Dance 2020,Wii,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Nov 19  ,25th Aug 22
+234,Just Dance 2020,PC,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Nov 19  ,25th Jul 19
+235,Just Dance 2021,XOne,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Nov 20  ,27th Aug 20
+236,Just Dance 2021,NS,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Nov 20  ,27th Aug 20
+237,Just Dance 2021,PS4,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Nov 20  ,27th Aug 20
+238,Just Dance 2021,PS5,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Nov 20  ,27th Aug 20
+239,Just Dance 2021,XS,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Nov 20  ,27th Aug 20
+240,Just Dance 2022,All,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Nov 21  ,21st Sep 21
+241,Just Shapes & Beats,NS,Berzerk Studio  ,Berzerk Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jul 18  ,23rd Mar 18
+242,Karaoke JOYSOUND for Switch,NS,Xing Entertainment  ,Xing Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Dec 17  ,30th Aug 18
+243,Kingdom Hearts: Melody of Memory,NS,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Nov 20  ,18th Sep 20
+244,Kingdom Hearts: Melody of Memory,PS4,Square Enix  ,Square Enix  ,6.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Nov 20  ,18th Sep 20
+245,Kingdom Hearts: Melody of Memory,XOne,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Nov 20  ,18th Sep 20
+246,Let's Sing 2016,XOne,Ravenscourt  ,Voxler  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Oct 15  ,07th Apr 18
+247,Let's Sing 2018,Wii,Koch Media  ,Voxler  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Nov 17  ,02nd Feb 18
+248,Let's Sing 2018,PS4,Koch Media  ,Voxler  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Nov 17  ,02nd Feb 18
+249,Love Live! School Idol Festival ~After School Activity~ Wai-Wai! Home Meeting!!,PS4,Unknown  ,BushiRoad  ,7.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,10th Feb 21
+250,Lyrica,iOS,RNOVA Studio  ,Cosen  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Nov 17  ,23rd Mar 19
+251,Lyrica,And,RNOVA Studio  ,Cosen  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Nov 17  ,23rd Mar 19
+252,Lyrica,NS,RNOVA Studio  ,Cosen  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Mar 19  ,23rd Mar 19
+253,Melody Blaster,Int,Mattel Electronics  ,Mattel  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,13th Jan 18
+254,No Straight Roads,XOne,Unknown  ,Metronomik  ,5.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,23rd Sep 20
+255,No Straight Roads,NS,Unknown  ,Metronomik  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,23rd Sep 20
+256,No Straight Roads,PC,Unknown  ,Metronomik  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,23rd Sep 20
+257,No Straight Roads,PS4,Unknown  ,Metronomik  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,23rd Sep 20
+258,Ode,PC,Unknown  ,Reflections Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,01st Feb 20
+259,Patapon 2 Remastered,PS4,Sony Interactive Entertainment  ,Pyramid/JAPAN Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Jan 20  ,11th Apr 20
+260,Ragnarock,PC,Unknown  ,WanadevStudio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,09th Feb 22
+261,Rock Band Blitz,PS3,Unknown  ,Harmonix Music Systems  ,6.8  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Aug 22
+262,Rock Band Blitz,X360,Unknown  ,Harmonix Music Systems  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Aug 22
+263,Rocksmith+,XS,Unknown  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Jun 21
+264,Rocksmith+,PC,Unknown  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Jun 21
+265,Rocksmith+,PS4,Unknown  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Jun 21
+266,Rocksmith+,PS5,Unknown  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Jun 21
+267,Rocksmith+,XOne,Unknown  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Jun 21
+268,Sayonara Wild Hearts,NS,Annapurna Interactive  ,Simogo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Sep 19  ,06th Dec 18
+269,Senran Kagura Bon Appetit!,PC,Unknown  ,Meteorise  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,29th Mar 19
+270,SingStar,PS4,Sony Computer Entertainment  ,SCEE London Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Oct 14  ,24th Sep 18
+271,Space Channel 5 VR: Kinda Funky News Flash!,PS4,Sega  ,Grounding Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,06th Dec 19
+272,Space Channel 5 VR: Kinda Funky News Flash!,PC,Sega  ,Grounding Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,06th Dec 19
+273,Super Beat Sports,NS,Harmonix Music Systems  ,Harmonix Music Systems  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Nov 17  ,25th Mar 18
+274,The Idolmaster: Starlit Season,PC,Bandai Namco Entertainment  ,Bandai Namco Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,16th Jul 20
+275,The Idolmaster: Starlit Season,PS4,Bandai Namco Entertainment  ,Bandai Namco Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,16th Jul 20
+276,Theatrhythm Final Bar Line,NS,Unknown  ,indieszero  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,31st Dec 22
+277,Theatrhythm Final Bar Line,PS4,Unknown  ,indieszero  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,31st Dec 22
+278,Thumper,NS,Drool  ,Drool  ,N/A  ,9.0  ,9.3  ,N/A,N/A,N/A,N/A,N/A,N/A,18th May 17  ,20th Feb 18
+279,Track Lab,PS4,Sony Interactive Entertainment  ,Little Chicken Game Company  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Aug 18  ,21st Sep 18
