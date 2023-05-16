@@ -443,6 +443,19 @@ steam_counts=df_steam['steam'].value_counts()
 print('The counts of if it is a steam game or not:\n',steam_counts)
 
 steam_totals = df_steam.groupby('steam')['total_sales_millions']
-print('The total sales depending on if it is a steam game or not:\n',steam_counts)
+print('The total sales depending on if it is a steam game or not:\n',steam_totals)
 
 ```
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/969e8bcb-e819-4c86-b1db-8d9cbe16c694)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/79d8be9e-85c2-437c-8440-7f3d26dacd34)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/cba71928-d070-4ebb-9510-8166fda20918)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/93c912b8-7ef1-4a5c-b852-5bb6dec2bc83)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/647bd843-b900-4e96-bbca-403bfb3c07b3)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/577fe15e-8573-43ae-83d7-93b36f88f001)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/cfe4e382-6fdd-4654-b222-03cb5b2dd214)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/87511f0d-f475-42d1-a443-a670b61199e4)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/efda74e7-5fbf-45a0-a633-c69318a08fda)
+
+
+
+
