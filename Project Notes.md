@@ -623,3 +623,114 @@ total_sales_sqrt = np.sqrt(total_sales_var)
 ![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/6aaea392-5d6b-4e9b-8726-f7177230aa92)
 ![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/5799488c-eed4-4b3b-bf58-b687255dbb2f)
 
+**Machine Learning**
+This was initially done with outliers then without
+```
+
+#Machine Learning: Testing Various Models.
+
+dummy_year =pd.get_dummies(df['release_year'])
+salesgroupsmall = df['salesgroup']
+no_outliers_dummy_year =pd.get_dummies(no_outliers['release_year'])
+no_outlierssalesgroupsmall = no_outliers['salesgroup']
+
+
+
+SEED = 42 
+# for it is the answer to life, the universe and everything
+
+#Data set including outliers first
+
+X = dummy_year
+y = salesgroupsmall
+
+X_train, X_test, y_train, y_test= train_test_split(X, y, test_size=0.3,random_state=SEED)
+
+#Decision Tree classifier
+
+dt = DecisionTreeClassifier(max_depth=20, random_state=SEED)
+dt.fit(X_train, y_train)
+y_pred_dt = dt.predict(X_test)
+accuracy_dt = accuracy_score(y_test, y_pred_dt)
+print('Accuracy of Decision Tree Classifier - Including Outliers: ',accuracy_dt)
+
+#Bagging Classifier
+
+dt2 = DecisionTreeClassifier(max_depth=4, min_samples_leaf=0.16, random_state=SEED)
+bc = BaggingClassifier(base_estimator=dt2, n_estimators=300, n_jobs=-1)
+bc.fit(X_train, y_train)
+y_pred_bc = bc.predict(X_test)
+accuracy_bc = accuracy_score(y_test, y_pred_bc)
+print('Accuracy of Bagging Classifier - Including Outliers: ',accuracy_bc)
+
+logreg = LogisticRegression(max_iter=10000)
+logreg.fit(X_train,y_train)
+y_pred_lr=logreg.predict(X_test)
+y_pred_probs_lr = logreg.predict_proba(X_test)[:, 1]
+accuracy_lr = accuracy_score(y_test, y_pred_lr)
+print('Accuracy of Logistic Regression - Including Outliers: ',accuracy_lr)
+
+#Gradiant Boosting Classifier
+
+gbc = GradientBoostingClassifier(n_estimators=100, learning_rate=0.1, random_state=SEED)
+gbc.fit(X_train, y_train)
+y_pred_gbc = gbc.predict(X_test)
+accuracy_gbc = accuracy_score(y_test, y_pred_gbc)
+print('Accuracy of Gradient Boosting Classifier - Including Outliers: ',accuracy_gbc)
+
+#Data set excluding outliers first
+
+X_no = no_outliers_dummy_year
+y_no = no_outlierssalesgroupsmall
+
+X_no_train, X_no_test, y_no_train, y_no_test= train_test_split(X_no, y_no, test_size=0.3,random_state=SEED)
+
+#Decision Tree classifier
+
+dt_no = DecisionTreeClassifier(max_depth=20, random_state=SEED)
+dt_no.fit(X_no_train, y_no_train)
+y_no_pred_dt = dt_no.predict(X_no_test)
+accuracy_dt_no = accuracy_score(y_no_test, y_no_pred_dt)
+print('Accuracy of Decision Tree Classifier - Excluding Outliers: ',accuracy_dt_no)
+
+#Bagging Classifier
+
+dt2_no = DecisionTreeClassifier(max_depth=4, min_samples_leaf=0.16, random_state=SEED)
+bc_no = BaggingClassifier(base_estimator=dt2_no, n_estimators=300, n_jobs=-1)
+bc_no.fit(X_no_train, y_no_train)
+y_no_pred_bc = bc_no.predict(X_no_test)
+accuracy_bc_no = accuracy_score(y_no_test, y_no_pred_bc)
+print('Accuracy of Bagging Classifier - Excluding Outliers: ',accuracy_bc_no)
+
+logreg_no = LogisticRegression(max_iter=10000)
+logreg_no.fit(X_no_train,y_no_train)
+y_no_pred_lr=logreg_no.predict(X_no_test)
+y__nopred_probs_lr = logreg_no.predict_proba(X_no_test)[:, 1]
+accuracy_lr_no = accuracy_score(y_no_test, y_no_pred_lr)
+print('Accuracy of Logistic Regression - Excluding Outliers: ',accuracy_lr_no)
+
+#Gradiant Boosting Classifier
+
+gbc_no = GradientBoostingClassifier(n_estimators=100, learning_rate=0.1, random_state=SEED)
+gbc_no.fit(X_no_train, y_no_train)
+y_no_pred_gbc = gbc_no.predict(X_no_test)
+accuracy_gbc_no = accuracy_score(y_no_test, y_no_pred_gbc)
+print('Accuracy of Gradient Boosting Classifier - Excluding Outliers: ',accuracy_gbc_no)
+
+```
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/d2d54c6b-d116-483d-8c69-e69e4d551926)
+
+**Hyper Parameter Tuning**
+```
+cv = RepeatedStratifiedKFold(n_splits=10, n_repeats=3, random_state=SEED)
+space = dict()
+space['solver'] = ['newton-cg', 'lbfgs', 'liblinear']
+space['penalty'] = ['none', 'l1', 'l2', 'elasticnet']
+space['C'] = [1e-5, 1e-4, 1e-3, 1e-2, 1e-1, 1, 10, 100]
+search = RandomizedSearchCV(logreg_no, space, n_iter=30, scoring='accuracy', n_jobs=-1, cv=cv, random_state=SEED)
+
+result = search.fit(X_no, y_no)
+
+print('Best Score: %s' % result.best_score_)
+print('Best Hyperparameters: %s' % result.best_params_)
+```
