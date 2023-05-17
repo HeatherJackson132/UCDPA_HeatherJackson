@@ -476,6 +476,11 @@ plt.show()
 ```
 ![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/f78c488a-ad66-480a-997d-0d95d310e3b8)
 ![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/d7883b88-9ae8-40ba-b503-bb5f3789369d)
+
+ - Action and Sports games were 2 of the genres with the most games released, followed closely by Adventure and Misc. However, the average sales of Action and Sports were middle of the road. While Adventure had one of the lower average sales. As Action and Sports have so many games made, it is likely because companies believe they can sell a significant number of copies. In fact, when I look at the data, they are indeed some of the highest selling games and the top 10 action or sports games actually average nearly 14 million between them. For them to be in the middle for average sales, this must mean that while a small number sell a lot, there must be a large number that do not. I believe that the small number of high selling games are unicorns and the rest of the games are trying to capture that magic. But in doing so may have flooded the market so that the group interested in them are too spread out. 
+ - The sandbox games are the opposite. There is only one game that did reasonably well and because there were no poorly received games to drag the genre down, it has the highest average sales by a significant margin.
+
+
 ```
 #graph 2a,b
 
@@ -488,6 +493,10 @@ sns.lineplot(data=df,x='release_year',y='total_sales_millions',ci=None,hue='cons
 ```
 ![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/5ad78632-5467-47ff-a65c-08486fe505d3)
 ![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/89b391e1-b8fe-4806-bfce-f6c474b6a78f)
+
+ - The consoles that sold the highest number of games are Nintendo and Sony. Nintendo had a rapid incline in the early 2000s that flatten before jumping again, peaking at around 2010 followed by a sharp decline. I actually found this quite unexpected as I would have thought the N64 era was Nintendo at the height of their power. But this could be explained by gaming at the time being targeted more toward children only and the prevalence of the rental market – so while they were the highest sellers at the time, it was a significantly smaller market. I would think that the success in the late 2000s and early 2010s would have been down to their success with the DS/3DS as well as the Wii which were unique amongst the consoles available at the time so cornered a different area of the market. However, with the release of the WiiU, the public lost a lot of faith in them. It does start to recover in the late 2010s with the release of the Switch.
+ - Sony had a more consistent rise and domination over Microsoft who have been their rival since the release of the Xbox. There were  obvious peaks around the year 2000, in the late 2000s and in the mid 2010s. These coincide with the releases of the PlayStation 2 in 2000, PlayStation 3 in 2006 and PlayStation 4 in 2013. There is a similar peaks for Microsoft but they never reach the same levels.
+
 
 ```
 #graph 3a,b,c
@@ -507,6 +516,10 @@ plt.show()
 ![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/6e4bae19-8ea0-446a-a379-e2f0b7b1bf7e)
 ![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/d6feb00b-6ea8-4160-a025-efab764ea851)
 
+ - These results were the most unexpected – I had expected there to be an overall trend upwards as the video game industry gain popularity with some variation due to environmental factors. However, the peaks were very unexpected with the highest number of games being released and sold was in the early 2000s to the mid 2010s. Though, this is also where there is the lowest average sales per game implying that there was a certain amount of market saturation at this point. This is made more obvious be the fact that the highest average sales per game were between the 90s and 80s where they also had the lowest number of games released. So people had limited options. I had expected there to be a drop around 2009 for the recession as they were a luxury rather than a requirement but as mentioned above, this could be down to the popularity of the consoles and games released at that time. 
+ - There is a sharp decline in the late 2010s and 2020 however this is expected as the sales figures are per game for all time so the most recently released games haven’t had as much time to be purchased.
+
+
 ```
 #graph 4a,b
 
@@ -523,6 +536,26 @@ plt.title('Critic Scores vs Sales')
 ```
 ![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/2c59ec84-b2e0-4523-8655-4713e915d2e9)
 ![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/c81d065d-40b6-498a-a61a-9caa52642399)
+
+ - There was a general correlation between the users and critics, there were some outliers however they are quite consistent.
+ - The sales are more interesting with the sales varying wildly. Games with a lower critic scores do not tend to sell well however once the critics score reached 6.5, the  sales could stay as low as a poorly reviewed game or be significantly higher than a game that was better reviewed.
+
+```
+#graph 5
+
+plt.pie(steam_counts, labels=steam_counts.index, autopct='%.0f%%')
+plt.title('Games in Steam')
+
+sns.barplot(data=df_steam,x='steam',y='total_sales_millions',estimator=np.mean)
+plt.title('Average Sales if in Steam')
+```
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/4746bd61-2aa2-4cb0-893d-80d99904b97c)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/4ca289b0-c46b-448f-af22-7e9fd23ffdaa)
+
+ - There was a significantly larger portion of games not on Steam than there were on it. However this could be down to how they were linked. Not all games will be named the same between the 2 data sets. This is particularly true for sequels where, eg Age of Empires III The Asian Dynasties could have been Age of Empires 3 or III with or without Asian Dynasties. I removed special characters to at least stop things like : or – from causing mismatches
+ - Despite the fact that there were only 30% of games on Steam, on average, if a game was on PC, the sales were higher if it was on Steam. This would make sense as Steam is a widely used platform that makes games easily accessible. This is the case when I reviewed the games made by the various EA developers who have a PC platform called Origin. The average sales per game were double if the game was on Steam. 
+
+
 ```
 #Other graphs done but ultimately not used:
 
@@ -546,6 +579,7 @@ sns.heatmap(df.corr(),cmap = 'coolwarm', annot=True)
 ![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/d0f4e0a0-83ae-4cb1-92e5-d3b363460af4)
 ![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/0a07ee7d-f715-4bec-b500-85fa9f4e6a56)
 ![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/d704fd5a-4e31-4800-9b85-2a1b8bb2f833)
+
 **Finding Outliers**
 ```
 print('The mean and standard deviation for the total sold:\n',df['total_sales_millions'].agg(['mean','std']))
@@ -734,3 +768,4 @@ result = search.fit(X_no, y_no)
 print('Best Score: %s' % result.best_score_)
 print('Best Hyperparameters: %s' % result.best_params_)
 ```
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/b69b3f6b-161a-482f-88eb-9999b6bdec6a)
