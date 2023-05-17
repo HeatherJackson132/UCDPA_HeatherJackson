@@ -274,8 +274,11 @@ df['salesgroup'] = df['total_sales_millions'].map(salesgroup)
 
 print('The counts for each total sales grouping')
 print(df['salesgroup'].value_counts().sort_index())
+```
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/00f46c34-665d-4fff-be29-ecea106f5d28)
 
-#This was broken up too much. Instead I changed it to just 5 groups. I also numbered the groups so that they would display in a sensible order. I kept this in as I thought it might be useful later 
+```
+#This was broken up too much. Instead I changed it to just 5 groups. I also numbered the groups so that they would display in a sensible order. I kept in the more split group just in case it might be useful later 
 
 def salesgrouping(temp_sales2):
     if temp_sales2 < 0.05:
@@ -455,6 +458,12 @@ print('The total sales depending on if it is a steam game or not:\n',steam_total
 ![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/cfe4e382-6fdd-4654-b222-03cb5b2dd214)
 ![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/87511f0d-f475-42d1-a443-a670b61199e4)
 ![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/efda74e7-5fbf-45a0-a633-c69318a08fda)
+
+Interesting things to note:
+ - In the Steam dataset there are no Japan Sales figures, if the data was more up to date, this might be different as in the past 3 or 4 years, the pc game market in Japan has grown considerably.
+ - The average critic score is 7.93 and user score is 8.36 which is very high, this would mean that most of the games reviewed would have been well reviewed. It would be interesting to investigate this to see if its that only the most popular games get reviewed and so the reviewers don't want to go against public opinion or is it that the poorer reviews get surpressed in some way.
+ - Computer games are only the 4th highest in the number of games released. I find this interesting as most households would have a desktop computer or laptop of some kind. I believe the reason that games aren't produced for computers despite their popularity is that for a long time, it was very expensive to get a PC that is as good a spec as a gaming console. While the PC may be multi purpose, the consoles were just cheaper and purpose built. I would like to see more recent data as gaming consoles have gotten more expensive while a decent PC is becoming more affordable and easier to upgrade.
+ -  The most popular month for games to be released is November followed closely be October. I had thought it would be December for the Christmas market but when releasing games, they do seem to take into consideration that people often buy presents early so it is prudent to release the games before the early shoppers start. March, June, August and Febrary are all above December which I assume would be to target school/college students who would want to get games to play over the summer while they are free. June is quite high which could relate to E3 running in May/June and developers wanting to use the exposure of the trade event to boost sales.
 
 **Graphs**
 
