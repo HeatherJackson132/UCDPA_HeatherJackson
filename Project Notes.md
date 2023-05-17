@@ -456,6 +456,170 @@ print('The total sales depending on if it is a steam game or not:\n',steam_total
 ![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/87511f0d-f475-42d1-a443-a670b61199e4)
 ![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/efda74e7-5fbf-45a0-a633-c69318a08fda)
 
+**Graphs**
+
+```
+    
+sns.set_style("whitegrid", {'grid.linestyle': '--'})
+
+#Graphs used in the final project
+#graph 1a,b
+
+sns.countplot(data=df,x='genre').set_title('Total Games Released per Genre')
+plt.xticks(rotation=80)
+plt.show()
+
+sns.barplot(data=df,x='genre',y='total_sales_millions',estimator=np.mean).set_title('Average Sales per Genre')
+plt.xticks(rotation=80)
+plt.show()
+
+```
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/f78c488a-ad66-480a-997d-0d95d310e3b8)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/d7883b88-9ae8-40ba-b503-bb5f3789369d)
+```
+#graph 2a,b
+
+salesgrouping_order = ['1. Very Small','2. Small','3. Medium','4. Large','5. Very Large']
+sns.countplot(data=df,x='console_manufacturer',hue='salesgrouping',hue_order=salesgrouping_order).set_title('Manufacturers Counts split by Sales Grouping')
 
 
+sns.lineplot(data=df,x='release_year',y='total_sales_millions',ci=None,hue='console_manufacturer',palette=['blue','green','red','orange','deepskyblue','purple'],estimator=np.sum).set_title('Number of Games Sold per Year')
+
+```
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/5ad78632-5467-47ff-a65c-08486fe505d3)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/89b391e1-b8fe-4806-bfce-f6c474b6a78f)
+
+```
+#graph 3a,b,c
+
+sns.lineplot(data=df.groupby(['release_year']).size().reset_index(name='count'),x='release_year',y='count').set_title('Number of Games Released per Year')
+plt.xticks([1970,1975,1980,1985,1990,1995,2000,2005,2010,2015,2020],rotation=80)
+
+sns.lineplot(data=df,x='release_year',y='total_sales_millions',estimator=np.mean).set_title('Average Sales per Year')
+plt.xticks([1970,1975,1980,1985,1990,1995,2000,2005,2010,2015,2020],rotation=80)
+plt.show()
+
+sns.lineplot(data=df,x='release_year',y='total_sales_millions',ci=None,estimator=np.sum).set_title('Total Sales per Year')
+plt.xticks([1970,1975,1980,1985,1990,1995,2000,2005,2010,2015,2020],rotation=80)
+plt.show()
+```
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/affc480d-fd5c-4692-9ce8-c19c708a6758)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/6e4bae19-8ea0-446a-a379-e2f0b7b1bf7e)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/d6feb00b-6ea8-4160-a025-efab764ea851)
+
+```
+#graph 4a,b
+
+plt.scatter(df_scores['critic_score'], df_scores['user_score'])
+plt.xlabel('Critic Score')
+plt.ylabel('User Score')
+plt.title('User vs Critic Scores')
+
+plt.scatter(df_scores['critic_score'], df_scores['total_sales_millions'])
+plt.xlabel('Critic Score')
+plt.ylabel('Sales (millions)')
+plt.title('Critic Scores vs Sales')
+
+```
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/2c59ec84-b2e0-4523-8655-4713e915d2e9)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/c81d065d-40b6-498a-a61a-9caa52642399)
+```
+#Other graphs done but ultimately not used:
+
+sns.countplot(data=df,x='console_manufacturer').set_title('Number of Games Release per Console Manufacturer')
+
+sns.pairplot(data=df,vars=['genre','console_manufacturer','total_sales_millions'])
+
+sns.kdeplot(data=df, x="release_year", hue="genre")
+plt.xticks([1970,1975,1980,1985,1990,1995,2000,2005,2010,2015,2020],rotation=80)
+plt.show()
+
+sns.kdeplot(data=df, x="release_year", hue="console_manufacturer").set_title('Games Released per Manufacturer')
+plt.xticks([1970,1975,1980,1985,1990,1995,2000,2005,2010,2015,2020],rotation=80)
+plt.show()
+
+sns.heatmap(df.corr(),cmap = 'coolwarm', annot=True)
+
+```
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/0be75f5a-ee34-4a02-87a3-a2607620ea6e)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/4ed33f6e-15cb-4748-8933-7591a29a5a18)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/d0f4e0a0-83ae-4cb1-92e5-d3b363460af4)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/0a07ee7d-f715-4bec-b500-85fa9f4e6a56)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/d704fd5a-4e31-4800-9b85-2a1b8bb2f833)
+**Finding Outliers**
+```
+print('The mean and standard deviation for the total sold:\n',df['total_sales_millions'].agg(['mean','std']))
+total_sales_mean = df['total_sales_millions'].mean()
+print('The mean for the total sales:',total_sales_mean)
+total_sales_std = df['total_sales_millions'].std()
+print('The std for the total sales:',total_sales_std)
+total_sales_75th = df['total_sales_millions'].quantile(0.75)
+total_sales_25th = df['total_sales_millions'].quantile(0.25)
+total_sales_iqr = total_sales_75th - total_sales_25th
+print('The 25th and 75th percentiles of the total sales are: ',total_sales_25th,' and ',total_sales_75th,' respectively. The interquartile range is ',total_sales_iqr)
+total_sales_upper = total_sales_75th + (1.5 * total_sales_iqr)
+total_sales_lower = total_sales_25th - (1.5 * total_sales_iqr)
+print('The total sales upper is: ',total_sales_upper,' and the lower is: ',total_sales_lower)
+
+total_sales_upper_outliers = df[(df['total_sales_millions'])>total_sales_upper]
+print(total_sales_upper_outliers)
+total_sales_lower_outliers = df[(df['total_sales_millions'])<total_sales_lower]
+print(total_sales_lower_outliers) # no lower as the lower cut off is a negative number and we can't have negative sales
+
+#The upper outliers appear to be valid - the most extreme is GTA V and when I checked the total sales, according to all sites I could see, this seems to be a valid number
+
+
+no_outliers = df[df['total_sales_millions']<total_sales_upper ] 
+#no need to inlcude removing lower outliers as there are none.
+
+print(df.shape)
+print(no_outliers.shape)
+print(df.head())
+print(no_outliers.head())
+print(df.info())
+print(no_outliers.info())
+print(df.describe())
+print(no_outliers.describe())
+```
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/97c312f9-b621-40a3-aa3d-22f5ceed2d67)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/c751e6c0-912c-4abf-958c-c3dfae0ee55d)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/de2d7b3d-116b-40a5-8f5f-c6158107e8fc)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/5b79677e-d455-400f-b685-5b4d54df6c79)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/b7749972-1419-42ba-a85f-c17eeb77a7cf)
+
+**Further Statistical Analysis**
+```
+ecdf_x = np.sort(df['total_sales_millions'])
+ecdf_y = np.arange(1,len(ecdf_x)+1)/len(ecdf_x)
+_ = plt.plot(ecdf_x,ecdf_y,marker='.',linestyle='none')
+_ = plt.xlabel('Total Sales (millions)')
+_ = plt.ylabel('EDCF')
+
+
+plt.margins(0.02)
+plt.show()
+
+
+
+#sales exponential distribution
+total_sales_exp = np.random.exponential(total_sales_mean,10000)
+
+_ = plt.hist(total_sales_exp, histtype='step', bins=50)
+_ = plt.xlabel('Total Sales (millions)')
+_ = plt.ylabel('PDF')
+plt.show()
+
+total_sales_percentiles = np.percentile(df['total_sales_millions'],[25,50,75])
+
+_ = sns.boxplot(x='console_manufacturer',y='total_sales_millions',data=df)
+_ = plt.xlabel('Manufacturers')
+_ = plt.ylabel('Total Sales (millions)')
+plt.show()
+
+total_sales_var = np.var(df['total_sales_millions'])
+total_sales_sqrt = np.sqrt(total_sales_var)
+
+```
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/6aaea392-5d6b-4e9b-8726-f7177230aa92)
+![image](https://github.com/HeatherJackson132/UCD_DataAnalytics_VGChartz/assets/133404925/5799488c-eed4-4b3b-bf58-b687255dbb2f)
 
